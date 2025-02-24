@@ -1,0 +1,1981 @@
+,Item,Jurisdiction,Month,CPI
+0,All-items,Canada,24-Jan,158.3
+1,Food,Canada,24-Jan,188.1
+2,Shelter,Canada,24-Jan,178.4
+3,"Household operations, furnishings and equipment",Canada,24-Jan,130.8
+4,Clothing and footwear,Canada,24-Jan,92.6
+5,Transportation,Canada,24-Jan,167.4
+6,Gasoline,Canada,24-Jan,209.3
+7,Health and personal care,Canada,24-Jan,147.7
+8,"Recreation, education and reading",Canada,24-Jan,123.0
+9,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Jan,194.3
+10,All-items excluding food and energy,Canada,24-Jan,148.8
+11,All-items excluding energy,Canada,24-Jan,155.3
+12,Energy,Canada,24-Jan,194.9
+13,Goods,Canada,24-Jan,143.1
+14,Services,Canada,24-Jan,173.1
+15,All-items,ON,24-Jan,159.9
+16,Food,ON,24-Jan,189.5
+17,Shelter,ON,24-Jan,181.8
+18,"Household operations, furnishings and equipment",ON,24-Jan,134.2
+19,Clothing and footwear,ON,24-Jan,92.5
+20,Transportation,ON,24-Jan,167.2
+21,Gasoline,ON,24-Jan,209.9
+22,Health and personal care,ON,24-Jan,148.7
+23,"Recreation, education and reading",ON,24-Jan,122.7
+24,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Jan,194.0
+25,All-items excluding food and energy,ON,24-Jan,151.7
+26,All-items excluding energy,ON,24-Jan,157.5
+27,Energy,ON,24-Jan,195.7
+28,Goods,ON,24-Jan,141.4
+29,Services,ON,24-Jan,176.1
+30,All-items,QC,24-Jan,154.8
+31,Food,QC,24-Jan,188.9
+32,Shelter,QC,24-Jan,166.4
+33,"Household operations, furnishings and equipment",QC,24-Jan,132.3
+34,Clothing and footwear,QC,24-Jan,85.8
+35,Transportation,QC,24-Jan,169.6
+36,Gasoline,QC,24-Jan,218.3
+37,Health and personal care,QC,24-Jan,148.7
+38,"Recreation, education and reading",QC,24-Jan,114.5
+39,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Jan,189.2
+40,All-items excluding food and energy,QC,24-Jan,143.7
+41,All-items excluding energy,QC,24-Jan,152.1
+42,Energy,QC,24-Jan,181.0
+43,Goods,QC,24-Jan,142.3
+44,Services,QC,24-Jan,168.6
+45,All-items,BC,24-Jan,152.6
+46,Food,BC,24-Jan,182.1
+47,Shelter,BC,24-Jan,156.8
+48,"Household operations, furnishings and equipment",BC,24-Jan,126.8
+49,Clothing and footwear,BC,24-Jan,102.6
+50,Transportation,BC,24-Jan,161.4
+51,Gasoline,BC,24-Jan,227.8
+52,Health and personal care,BC,24-Jan,141.7
+53,"Recreation, education and reading",BC,24-Jan,135.7
+54,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Jan,183.1
+55,All-items excluding food and energy,BC,24-Jan,142.8
+56,All-items excluding energy,BC,24-Jan,149.2
+57,Energy,BC,24-Jan,196.0
+58,Goods,BC,24-Jan,141.9
+59,Services,BC,24-Jan,161.6
+60,All-items,AB,24-Jan,165.9
+61,Food,AB,24-Jan,187.4
+62,Shelter,AB,24-Jan,213.8
+63,"Household operations, furnishings and equipment",AB,24-Jan,125.7
+64,Clothing and footwear,AB,24-Jan,94.7
+65,Transportation,AB,24-Jan,173.1
+66,Gasoline,AB,24-Jan,190.7
+67,Health and personal care,AB,24-Jan,155.6
+68,"Recreation, education and reading",AB,24-Jan,121.1
+69,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Jan,191.1
+70,All-items excluding food and energy,AB,24-Jan,156.8
+71,All-items excluding energy,AB,24-Jan,161.9
+72,Energy,AB,24-Jan,218.2
+73,Goods,AB,24-Jan,144.0
+74,Services,AB,24-Jan,189.3
+75,All-items,MB,24-Jan,157.5
+76,Food,MB,24-Jan,184.1
+77,Shelter,MB,24-Jan,189.2
+78,"Household operations, furnishings and equipment",MB,24-Jan,129.7
+79,Clothing and footwear,MB,24-Jan,91.2
+80,Transportation,MB,24-Jan,160.5
+81,Gasoline,MB,24-Jan,180.5
+82,Health and personal care,MB,24-Jan,139.1
+83,"Recreation, education and reading",MB,24-Jan,123.8
+84,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Jan,207.2
+85,All-items excluding food and energy,MB,24-Jan,150.6
+86,All-items excluding energy,MB,24-Jan,156.4
+87,Energy,MB,24-Jan,169.5
+88,Goods,MB,24-Jan,141.3
+89,Services,MB,24-Jan,175.8
+90,All-items,SK,24-Jan,159.7
+91,Food,SK,24-Jan,189.5
+92,Shelter,SK,24-Jan,197.1
+93,"Household operations, furnishings and equipment",SK,24-Jan,119.9
+94,Clothing and footwear,SK,24-Jan,97.6
+95,Transportation,SK,24-Jan,159.6
+96,Gasoline,SK,24-Jan,183.2
+97,Health and personal care,SK,24-Jan,145.5
+98,"Recreation, education and reading",SK,24-Jan,124.6
+99,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Jan,211.6
+100,All-items excluding food and energy,SK,24-Jan,151.7
+101,All-items excluding energy,SK,24-Jan,158.1
+102,Energy,SK,24-Jan,173.0
+103,Goods,SK,24-Jan,143.0
+104,Services,SK,24-Jan,180.4
+105,All-items,NS,24-Jan,162.0
+106,Food,NS,24-Jan,194.4
+107,Shelter,NS,24-Jan,186.4
+108,"Household operations, furnishings and equipment",NS,24-Jan,126.8
+109,Clothing and footwear,NS,24-Jan,98.0
+110,Transportation,NS,24-Jan,166.1
+111,Gasoline,NS,24-Jan,208.1
+112,Health and personal care,NS,24-Jan,143.7
+113,"Recreation, education and reading",NS,24-Jan,129.7
+114,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Jan,232.3
+115,All-items excluding food and energy,NS,24-Jan,146.6
+116,All-items excluding energy,NS,24-Jan,155.0
+117,Energy,NS,24-Jan,224.2
+118,Goods,NS,24-Jan,158.4
+119,Services,NS,24-Jan,165.6
+120,All-items,NB,24-Jan,158.5
+121,Food,NB,24-Jan,199.5
+122,Shelter,NB,24-Jan,168.0
+123,"Household operations, furnishings and equipment",NB,24-Jan,128.4
+124,Clothing and footwear,NB,24-Jan,101.4
+125,Transportation,NB,24-Jan,166.5
+126,Gasoline,NB,24-Jan,205.8
+127,Health and personal care,NB,24-Jan,138.4
+128,"Recreation, education and reading",NB,24-Jan,130.4
+129,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Jan,226.9
+130,All-items excluding food and energy,NB,24-Jan,143.6
+131,All-items excluding energy,NB,24-Jan,153.4
+132,Energy,NB,24-Jan,196.7
+133,Goods,NB,24-Jan,154.5
+134,Services,NB,24-Jan,162.9
+135,All-items,NL,24-Jan,159.8
+136,Food,NL,24-Jan,186.9
+137,Shelter,NL,24-Jan,194.7
+138,"Household operations, furnishings and equipment",NL,24-Jan,123.1
+139,Clothing and footwear,NL,24-Jan,89.6
+140,Transportation,NL,24-Jan,170.2
+141,Gasoline,NL,24-Jan,208.5
+142,Health and personal care,NL,24-Jan,142.6
+143,"Recreation, education and reading",NL,24-Jan,115.9
+144,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Jan,227.8
+145,All-items excluding food and energy,NL,24-Jan,144.1
+146,All-items excluding energy,NL,24-Jan,152.2
+147,Energy,NL,24-Jan,218.5
+148,Goods,NL,24-Jan,154.7
+149,Services,NL,24-Jan,166.9
+150,All-items,PEI,24-Jan,162.6
+151,Food,PEI,24-Jan,198.6
+152,Shelter,PEI,24-Jan,176.5
+153,"Household operations, furnishings and equipment",PEI,24-Jan,137.2
+154,Clothing and footwear,PEI,24-Jan,96.0
+155,Transportation,PEI,24-Jan,170.8
+156,Gasoline,PEI,24-Jan,233.1
+157,Health and personal care,PEI,24-Jan,152.0
+158,"Recreation, education and reading",PEI,24-Jan,123.4
+159,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Jan,228.0
+160,All-items excluding food and energy,PEI,24-Jan,144.3
+161,All-items excluding energy,PEI,24-Jan,153.9
+162,Energy,PEI,24-Jan,241.6
+163,Goods,PEI,24-Jan,166.2
+164,Services,PEI,24-Jan,157.4
+165,All-items,Canada,24-Feb,158.8
+166,Food,Canada,24-Feb,188.1
+167,Shelter,Canada,24-Feb,179.2
+168,"Household operations, furnishings and equipment",Canada,24-Feb,130.6
+169,Clothing and footwear,Canada,24-Feb,91.6
+170,Transportation,Canada,24-Feb,168.5
+171,Gasoline,Canada,24-Feb,217.7
+172,Health and personal care,Canada,24-Feb,148.4
+173,"Recreation, education and reading",Canada,24-Feb,125.0
+174,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Feb,194.1
+175,All-items excluding food and energy,Canada,24-Feb,149.1
+176,All-items excluding energy,Canada,24-Feb,155.6
+177,Energy,Canada,24-Feb,200.4
+178,Goods,Canada,24-Feb,143.5
+179,Services,Canada,24-Feb,173.8
+180,All-items,ON,24-Feb,160.2
+181,Food,ON,24-Feb,189.3
+182,Shelter,ON,24-Feb,182.5
+183,"Household operations, furnishings and equipment",ON,24-Feb,132.9
+184,Clothing and footwear,ON,24-Feb,91.1
+185,Transportation,ON,24-Feb,168.2
+186,Gasoline,ON,24-Feb,216.7
+187,Health and personal care,ON,24-Feb,149.8
+188,"Recreation, education and reading",ON,24-Feb,124.9
+189,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Feb,193.9
+190,All-items excluding food and energy,ON,24-Feb,151.8
+191,All-items excluding energy,ON,24-Feb,157.6
+192,Energy,ON,24-Feb,199.7
+193,Goods,ON,24-Feb,141.3
+194,Services,ON,24-Feb,176.9
+195,All-items,QC,24-Feb,155.5
+196,Food,QC,24-Feb,189.0
+197,Shelter,QC,24-Feb,167.0
+198,"Household operations, furnishings and equipment",QC,24-Feb,133.3
+199,Clothing and footwear,QC,24-Feb,87.5
+200,Transportation,QC,24-Feb,170.0
+201,Gasoline,QC,24-Feb,223.6
+202,Health and personal care,QC,24-Feb,148.9
+203,"Recreation, education and reading",QC,24-Feb,116.1
+204,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Feb,189.4
+205,All-items excluding food and energy,QC,24-Feb,144.4
+206,All-items excluding energy,QC,24-Feb,152.7
+207,Energy,QC,24-Feb,184.2
+208,Goods,QC,24-Feb,143.1
+209,Services,QC,24-Feb,169.3
+210,All-items,BC,24-Feb,153.0
+211,Food,BC,24-Feb,182.0
+212,Shelter,BC,24-Feb,156.9
+213,"Household operations, furnishings and equipment",BC,24-Feb,127.5
+214,Clothing and footwear,BC,24-Feb,100.0
+215,Transportation,BC,24-Feb,162.8
+216,Gasoline,BC,24-Feb,238.7
+217,Health and personal care,BC,24-Feb,142.4
+218,"Recreation, education and reading",BC,24-Feb,138.0
+219,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Feb,182.1
+220,All-items excluding food and energy,BC,24-Feb,143.0
+221,All-items excluding energy,BC,24-Feb,149.4
+222,Energy,BC,24-Feb,202.3
+223,Goods,BC,24-Feb,142.4
+224,Services,BC,24-Feb,161.9
+225,All-items,AB,24-Feb,166.8
+226,Food,AB,24-Feb,187.6
+227,Shelter,AB,24-Feb,217.2
+228,"Household operations, furnishings and equipment",AB,24-Feb,125.3
+229,Clothing and footwear,AB,24-Feb,92.2
+230,Transportation,AB,24-Feb,175.3
+231,Gasoline,AB,24-Feb,204.8
+232,Health and personal care,AB,24-Feb,157.0
+233,"Recreation, education and reading",AB,24-Feb,122.1
+234,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Feb,190.4
+235,All-items excluding food and energy,AB,24-Feb,157.1
+236,All-items excluding energy,AB,24-Feb,162.2
+237,Energy,AB,24-Feb,232.7
+238,Goods,AB,24-Feb,145.0
+239,Services,AB,24-Feb,190.3
+240,All-items,MB,24-Feb,158.3
+241,Food,MB,24-Feb,183.8
+242,Shelter,MB,24-Feb,190.1
+243,"Household operations, furnishings and equipment",MB,24-Feb,128.9
+244,Clothing and footwear,MB,24-Feb,88.6
+245,Transportation,MB,24-Feb,162.6
+246,Gasoline,MB,24-Feb,193.0
+247,Health and personal care,MB,24-Feb,139.7
+248,"Recreation, education and reading",MB,24-Feb,127.7
+249,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Feb,206.6
+250,All-items excluding food and energy,MB,24-Feb,151.1
+251,All-items excluding energy,MB,24-Feb,156.8
+252,Energy,MB,24-Feb,175.1
+253,Goods,MB,24-Feb,141.7
+254,Services,MB,24-Feb,177.0
+255,All-items,SK,24-Feb,160.3
+256,Food,SK,24-Feb,189.1
+257,Shelter,SK,24-Feb,197.7
+258,"Household operations, furnishings and equipment",SK,24-Feb,120.7
+259,Clothing and footwear,SK,24-Feb,95.7
+260,Transportation,SK,24-Feb,161.5
+261,Gasoline,SK,24-Feb,194.0
+262,Health and personal care,SK,24-Feb,145.8
+263,"Recreation, education and reading",SK,24-Feb,126.5
+264,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Feb,210.9
+265,All-items excluding food and energy,SK,24-Feb,152.0
+266,All-items excluding energy,SK,24-Feb,158.3
+267,Energy,SK,24-Feb,179.0
+268,Goods,SK,24-Feb,143.6
+269,Services,SK,24-Feb,181.1
+270,All-items,NS,24-Feb,162.8
+271,Food,NS,24-Feb,194.2
+272,Shelter,NS,24-Feb,187.6
+273,"Household operations, furnishings and equipment",NS,24-Feb,128.5
+274,Clothing and footwear,NS,24-Feb,95.1
+275,Transportation,NS,24-Feb,167.4
+276,Gasoline,NS,24-Feb,216.3
+277,Health and personal care,NS,24-Feb,144.1
+278,"Recreation, education and reading",NS,24-Feb,131.5
+279,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Feb,233.9
+280,All-items excluding food and energy,NS,24-Feb,147.3
+281,All-items excluding energy,NS,24-Feb,155.5
+282,Energy,NS,24-Feb,229.7
+283,Goods,NS,24-Feb,159.1
+284,Services,NS,24-Feb,166.6
+285,All-items,NB,24-Feb,158.9
+286,Food,NB,24-Feb,199.3
+287,Shelter,NB,24-Feb,169.0
+288,"Household operations, furnishings and equipment",NB,24-Feb,128.6
+289,Clothing and footwear,NB,24-Feb,100.4
+290,Transportation,NB,24-Feb,167.2
+291,Gasoline,NB,24-Feb,213.6
+292,Health and personal care,NB,24-Feb,139.6
+293,"Recreation, education and reading",NB,24-Feb,130.7
+294,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Feb,227.5
+295,All-items excluding food and energy,NB,24-Feb,143.6
+296,All-items excluding energy,NB,24-Feb,153.4
+297,Energy,NB,24-Feb,202.0
+298,Goods,NB,24-Feb,155.0
+299,Services,NB,24-Feb,163.2
+300,All-items,NL,24-Feb,160.6
+301,Food,NL,24-Feb,187.0
+302,Shelter,NL,24-Feb,195.6
+303,"Household operations, furnishings and equipment",NL,24-Feb,123.3
+304,Clothing and footwear,NL,24-Feb,89.5
+305,Transportation,NL,24-Feb,172.0
+306,Gasoline,NL,24-Feb,217.8
+307,Health and personal care,NL,24-Feb,143.4
+308,"Recreation, education and reading",NL,24-Feb,117.8
+309,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Feb,227.4
+310,All-items excluding food and energy,NL,24-Feb,144.5
+311,All-items excluding energy,NL,24-Feb,152.5
+312,Energy,NL,24-Feb,225.3
+313,Goods,NL,24-Feb,155.6
+314,Services,NL,24-Feb,167.5
+315,All-items,PEI,24-Feb,163.8
+316,Food,PEI,24-Feb,200.1
+317,Shelter,PEI,24-Feb,176.9
+318,"Household operations, furnishings and equipment",PEI,24-Feb,138.6
+319,Clothing and footwear,PEI,24-Feb,98.2
+320,Transportation,PEI,24-Feb,172.4
+321,Gasoline,PEI,24-Feb,241.6
+322,Health and personal care,PEI,24-Feb,151.3
+323,"Recreation, education and reading",PEI,24-Feb,125.2
+324,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Feb,228.1
+325,All-items excluding food and energy,PEI,24-Feb,145.1
+326,All-items excluding energy,PEI,24-Feb,154.8
+327,Energy,PEI,24-Feb,247.3
+328,Goods,PEI,24-Feb,167.7
+329,Services,PEI,24-Feb,158.3
+330,All-items,Canada,24-Mar,159.8
+331,Food,Canada,24-Mar,187.8
+332,Shelter,Canada,24-Mar,179.9
+333,"Household operations, furnishings and equipment",Canada,24-Mar,130.2
+334,Clothing and footwear,Canada,24-Mar,94.2
+335,Transportation,Canada,24-Mar,171.0
+336,Gasoline,Canada,24-Mar,228.3
+337,Health and personal care,Canada,24-Mar,148.3
+338,"Recreation, education and reading",Canada,24-Mar,127.5
+339,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Mar,195.0
+340,All-items excluding food and energy,Canada,24-Mar,150.1
+341,All-items excluding energy,Canada,24-Mar,156.4
+342,Energy,Canada,24-Mar,204.7
+343,Goods,Canada,24-Mar,144.2
+344,Services,Canada,24-Mar,175.1
+345,All-items,ON,24-Mar,161.4
+346,Food,ON,24-Mar,189.4
+347,Shelter,ON,24-Mar,183.4
+348,"Household operations, furnishings and equipment",ON,24-Mar,132.7
+349,Clothing and footwear,ON,24-Mar,92.4
+350,Transportation,ON,24-Mar,170.3
+351,Gasoline,ON,24-Mar,224.6
+352,Health and personal care,ON,24-Mar,150.0
+353,"Recreation, education and reading",ON,24-Mar,129.2
+354,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Mar,194.0
+355,All-items excluding food and energy,ON,24-Mar,153.0
+356,All-items excluding energy,ON,24-Mar,158.6
+357,Energy,ON,24-Mar,203.9
+358,Goods,ON,24-Mar,142.0
+359,Services,ON,24-Mar,178.5
+360,All-items,QC,24-Mar,156.7
+361,Food,QC,24-Mar,188.6
+362,Shelter,QC,24-Mar,168.0
+363,"Household operations, furnishings and equipment",QC,24-Mar,133.4
+364,Clothing and footwear,QC,24-Mar,91.9
+365,Transportation,QC,24-Mar,171.0
+366,Gasoline,QC,24-Mar,225.9
+367,Health and personal care,QC,24-Mar,149.3
+368,"Recreation, education and reading",QC,24-Mar,118.5
+369,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Mar,191.3
+370,All-items excluding food and energy,QC,24-Mar,145.8
+371,All-items excluding energy,QC,24-Mar,153.9
+372,Energy,QC,24-Mar,184.9
+373,Goods,QC,24-Mar,144.0
+374,Services,QC,24-Mar,170.7
+375,All-items,BC,24-Mar,153.8
+376,Food,BC,24-Mar,180.8
+377,Shelter,BC,24-Mar,158.0
+378,"Household operations, furnishings and equipment",BC,24-Mar,126.9
+379,Clothing and footwear,BC,24-Mar,102.6
+380,Transportation,BC,24-Mar,166.8
+381,Gasoline,BC,24-Mar,263.2
+382,Health and personal care,BC,24-Mar,141.6
+383,"Recreation, education and reading",BC,24-Mar,138.2
+384,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Mar,183.1
+385,All-items excluding food and energy,BC,24-Mar,143.5
+386,All-items excluding energy,BC,24-Mar,149.7
+387,Energy,BC,24-Mar,216.2
+388,Goods,BC,24-Mar,143.4
+389,Services,BC,24-Mar,162.5
+390,All-items,AB,24-Mar,167.3
+391,Food,AB,24-Mar,187.3
+392,Shelter,AB,24-Mar,215.4
+393,"Household operations, furnishings and equipment",AB,24-Mar,124.4
+394,Clothing and footwear,AB,24-Mar,95.4
+395,Transportation,AB,24-Mar,179.9
+396,Gasoline,AB,24-Mar,223.2
+397,Health and personal care,AB,24-Mar,156.0
+398,"Recreation, education and reading",AB,24-Mar,122.1
+399,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Mar,192.7
+400,All-items excluding food and energy,AB,24-Mar,157.6
+401,All-items excluding energy,AB,24-Mar,162.6
+402,Energy,AB,24-Mar,233.7
+403,Goods,AB,24-Mar,145.3
+404,Services,AB,24-Mar,190.9
+405,All-items,MB,24-Mar,159.0
+406,Food,MB,24-Mar,184.0
+407,Shelter,MB,24-Mar,190.8
+408,"Household operations, furnishings and equipment",MB,24-Mar,127.7
+409,Clothing and footwear,MB,24-Mar,91.6
+410,Transportation,MB,24-Mar,166.2
+411,Gasoline,MB,24-Mar,208.1
+412,Health and personal care,MB,24-Mar,138.3
+413,"Recreation, education and reading",MB,24-Mar,128.0
+414,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Mar,205.9
+415,All-items excluding food and energy,MB,24-Mar,151.4
+416,All-items excluding energy,MB,24-Mar,157.0
+417,Energy,MB,24-Mar,182.6
+418,Goods,MB,24-Mar,142.1
+419,Services,MB,24-Mar,178.0
+420,All-items,SK,24-Mar,161.2
+421,Food,SK,24-Mar,188.6
+422,Shelter,SK,24-Mar,198.0
+423,"Household operations, furnishings and equipment",SK,24-Mar,119.7
+424,Clothing and footwear,SK,24-Mar,99.6
+425,Transportation,SK,24-Mar,165.5
+426,Gasoline,SK,24-Mar,210.5
+427,Health and personal care,SK,24-Mar,145.2
+428,"Recreation, education and reading",SK,24-Mar,127.6
+429,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Mar,212.0
+430,All-items excluding food and energy,SK,24-Mar,152.4
+431,All-items excluding energy,SK,24-Mar,158.5
+432,Energy,SK,24-Mar,188.2
+433,Goods,SK,24-Mar,144.8
+434,Services,SK,24-Mar,181.5
+435,All-items,NS,24-Mar,163.7
+436,Food,NS,24-Mar,193.2
+437,Shelter,NS,24-Mar,187.8
+438,"Household operations, furnishings and equipment",NS,24-Mar,127.8
+439,Clothing and footwear,NS,24-Mar,97.4
+440,Transportation,NS,24-Mar,168.9
+441,Gasoline,NS,24-Mar,222.1
+442,Health and personal care,NS,24-Mar,143.8
+443,"Recreation, education and reading",NS,24-Mar,136.9
+444,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Mar,234.1
+445,All-items excluding food and energy,NS,24-Mar,148.3
+446,All-items excluding energy,NS,24-Mar,156.2
+447,Energy,NS,24-Mar,232.2
+448,Goods,NS,24-Mar,159.3
+449,Services,NS,24-Mar,168.3
+450,All-items,NB,24-Mar,159.8
+451,Food,NB,24-Mar,199.5
+452,Shelter,NB,24-Mar,170.0
+453,"Household operations, furnishings and equipment",NB,24-Mar,128.5
+454,Clothing and footwear,NB,24-Mar,103.4
+455,Transportation,NB,24-Mar,169.1
+456,Gasoline,NB,24-Mar,220.0
+457,Health and personal care,NB,24-Mar,138.8
+458,"Recreation, education and reading",NB,24-Mar,132.3
+459,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Mar,227.3
+460,All-items excluding food and energy,NB,24-Mar,144.5
+461,All-items excluding energy,NB,24-Mar,154.2
+462,Energy,NB,24-Mar,204.0
+463,Goods,NB,24-Mar,155.5
+464,Services,NB,24-Mar,164.6
+465,All-items,NL,24-Mar,161.9
+466,Food,NL,24-Mar,187.4
+467,Shelter,NL,24-Mar,196.5
+468,"Household operations, furnishings and equipment",NL,24-Mar,123.5
+469,Clothing and footwear,NL,24-Mar,91.0
+470,Transportation,NL,24-Mar,174.5
+471,Gasoline,NL,24-Mar,224.3
+472,Health and personal care,NL,24-Mar,143.7
+473,"Recreation, education and reading",NL,24-Mar,121.8
+474,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Mar,227.6
+475,All-items excluding food and energy,NL,24-Mar,145.9
+476,All-items excluding energy,NL,24-Mar,153.7
+477,Energy,NL,24-Mar,229.0
+478,Goods,NL,24-Mar,156.3
+479,Services,NL,24-Mar,169.8
+480,All-items,PEI,24-Mar,164.8
+481,Food,PEI,24-Mar,199.9
+482,Shelter,PEI,24-Mar,178.2
+483,"Household operations, furnishings and equipment",PEI,24-Mar,137.9
+484,Clothing and footwear,PEI,24-Mar,100.0
+485,Transportation,PEI,24-Mar,174.7
+486,Gasoline,PEI,24-Mar,245.4
+487,Health and personal care,PEI,24-Mar,152.4
+488,"Recreation, education and reading",PEI,24-Mar,127.4
+489,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Mar,227.9
+490,All-items excluding food and energy,PEI,24-Mar,146.2
+491,All-items excluding energy,PEI,24-Mar,155.7
+492,Energy,PEI,24-Mar,249.7
+493,Goods,PEI,24-Mar,167.8
+494,Services,PEI,24-Mar,160.2
+495,All-items,Canada,24-Apr,160.6
+496,Food,Canada,24-Apr,187.4
+497,Shelter,Canada,24-Apr,180.8
+498,"Household operations, furnishings and equipment",Canada,24-Apr,130.9
+499,Clothing and footwear,Canada,24-Apr,95.0
+500,Transportation,Canada,24-Apr,173.8
+501,Gasoline,Canada,24-Apr,246.3
+502,Health and personal care,Canada,24-Apr,150.0
+503,"Recreation, education and reading",Canada,24-Apr,126.6
+504,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Apr,195.9
+505,All-items excluding food and energy,Canada,24-Apr,150.5
+506,All-items excluding energy,Canada,24-Apr,156.6
+507,Energy,Canada,24-Apr,215.2
+508,Goods,Canada,24-Apr,145.4
+509,Services,Canada,24-Apr,175.5
+510,All-items,ON,24-Apr,162.2
+511,Food,ON,24-Apr,189.2
+512,Shelter,ON,24-Apr,183.7
+513,"Household operations, furnishings and equipment",ON,24-Apr,134.4
+514,Clothing and footwear,ON,24-Apr,93.6
+515,Transportation,ON,24-Apr,173.3
+516,Gasoline,ON,24-Apr,244.2
+517,Health and personal care,ON,24-Apr,151.6
+518,"Recreation, education and reading",ON,24-Apr,127.4
+519,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Apr,194.5
+520,All-items excluding food and energy,ON,24-Apr,153.4
+521,All-items excluding energy,ON,24-Apr,158.9
+522,Energy,ON,24-Apr,214.0
+523,Goods,ON,24-Apr,143.4
+524,Services,ON,24-Apr,178.7
+525,All-items,QC,24-Apr,157.0
+526,Food,QC,24-Apr,188.3
+527,Shelter,QC,24-Apr,168.9
+528,"Household operations, furnishings and equipment",QC,24-Apr,132.4
+529,Clothing and footwear,QC,24-Apr,91.7
+530,Transportation,QC,24-Apr,173.5
+531,Gasoline,QC,24-Apr,243.2
+532,Health and personal care,QC,24-Apr,151.3
+533,"Recreation, education and reading",QC,24-Apr,117.0
+534,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Apr,191.8
+535,All-items excluding food and energy,QC,24-Apr,145.6
+536,All-items excluding energy,QC,24-Apr,153.6
+537,Energy,QC,24-Apr,194.9
+538,Goods,QC,24-Apr,144.6
+539,Services,QC,24-Apr,170.7
+540,All-items,BC,24-Apr,154.7
+541,Food,BC,24-Apr,179.8
+542,Shelter,BC,24-Apr,159.0
+543,"Household operations, furnishings and equipment",BC,24-Apr,127.2
+544,Clothing and footwear,BC,24-Apr,103.5
+545,Transportation,BC,24-Apr,169.6
+546,Gasoline,BC,24-Apr,281.3
+547,Health and personal care,BC,24-Apr,142.8
+548,"Recreation, education and reading",BC,24-Apr,139.5
+549,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Apr,183.9
+550,All-items excluding food and energy,BC,24-Apr,144.2
+551,All-items excluding energy,BC,24-Apr,150.1
+552,Energy,BC,24-Apr,228.9
+553,Goods,BC,24-Apr,144.2
+554,Services,BC,24-Apr,163.5
+555,All-items,AB,24-Apr,168.6
+556,Food,AB,24-Apr,186.8
+557,Shelter,AB,24-Apr,217.4
+558,"Household operations, furnishings and equipment",AB,24-Apr,125.4
+559,Clothing and footwear,AB,24-Apr,96.8
+560,Transportation,AB,24-Apr,182.7
+561,Gasoline,AB,24-Apr,242.8
+562,Health and personal care,AB,24-Apr,158.2
+563,"Recreation, education and reading",AB,24-Apr,122.6
+564,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Apr,194.1
+565,All-items excluding food and energy,AB,24-Apr,158.5
+566,All-items excluding energy,AB,24-Apr,163.3
+567,Energy,AB,24-Apr,246.5
+568,Goods,AB,24-Apr,146.8
+569,Services,AB,24-Apr,192.0
+570,All-items,MB,24-Apr,160.0
+571,Food,MB,24-Apr,182.8
+572,Shelter,MB,24-Apr,192.6
+573,"Household operations, furnishings and equipment",MB,24-Apr,129.4
+574,Clothing and footwear,MB,24-Apr,92.1
+575,Transportation,MB,24-Apr,168.0
+576,Gasoline,MB,24-Apr,217.5
+577,Health and personal care,MB,24-Apr,140.6
+578,"Recreation, education and reading",MB,24-Apr,127.6
+579,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Apr,207.6
+580,All-items excluding food and energy,MB,24-Apr,152.3
+581,All-items excluding energy,MB,24-Apr,157.7
+582,Energy,MB,24-Apr,188.4
+583,Goods,MB,24-Apr,142.7
+584,Services,MB,24-Apr,179.4
+585,All-items,SK,24-Apr,162.0
+586,Food,SK,24-Apr,188.7
+587,Shelter,SK,24-Apr,199.6
+588,"Household operations, furnishings and equipment",SK,24-Apr,120.3
+589,Clothing and footwear,SK,24-Apr,100.7
+590,Transportation,SK,24-Apr,166.5
+591,Gasoline,SK,24-Apr,219.0
+592,Health and personal care,SK,24-Apr,146.6
+593,"Recreation, education and reading",SK,24-Apr,127.7
+594,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Apr,212.4
+595,All-items excluding food and energy,SK,24-Apr,153.0
+596,All-items excluding energy,SK,24-Apr,159.1
+597,Energy,SK,24-Apr,192.8
+598,Goods,SK,24-Apr,145.4
+599,Services,SK,24-Apr,182.6
+600,All-items,NS,24-Apr,164.3
+601,Food,NS,24-Apr,194.2
+602,Shelter,NS,24-Apr,188.0
+603,"Household operations, furnishings and equipment",NS,24-Apr,128.0
+604,Clothing and footwear,NS,24-Apr,97.8
+605,Transportation,NS,24-Apr,172.2
+606,Gasoline,NS,24-Apr,238.9
+607,Health and personal care,NS,24-Apr,146.1
+608,"Recreation, education and reading",NS,24-Apr,132.5
+609,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Apr,239.6
+610,All-items excluding food and energy,NS,24-Apr,148.2
+611,All-items excluding energy,NS,24-Apr,156.3
+612,Energy,NS,24-Apr,239.6
+613,Goods,NS,24-Apr,160.3
+614,Services,NS,24-Apr,168.3
+615,All-items,NB,24-Apr,162.0
+616,Food,NB,24-Apr,200.0
+617,Shelter,NB,24-Apr,173.8
+618,"Household operations, furnishings and equipment",NB,24-Apr,129.5
+619,Clothing and footwear,NB,24-Apr,103.0
+620,Transportation,NB,24-Apr,173.7
+621,Gasoline,NB,24-Apr,240.2
+622,Health and personal care,NB,24-Apr,141.6
+623,"Recreation, education and reading",NB,24-Apr,131.9
+624,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Apr,229.9
+625,All-items excluding food and energy,NB,24-Apr,145.2
+626,All-items excluding energy,NB,24-Apr,154.9
+627,Energy,NB,24-Apr,222.7
+628,Goods,NB,24-Apr,158.4
+629,Services,NB,24-Apr,165.7
+630,All-items,NL,24-Apr,162.4
+631,Food,NL,24-Apr,186.8
+632,Shelter,NL,24-Apr,197.2
+633,"Household operations, furnishings and equipment",NL,24-Apr,123.9
+634,Clothing and footwear,NL,24-Apr,90.8
+635,Transportation,NL,24-Apr,177.0
+636,Gasoline,NL,24-Apr,243.5
+637,Health and personal care,NL,24-Apr,146.3
+638,"Recreation, education and reading",NL,24-Apr,119.0
+639,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Apr,229.1
+640,All-items excluding food and energy,NL,24-Apr,145.6
+641,All-items excluding energy,NL,24-Apr,153.4
+642,Energy,NL,24-Apr,240.7
+643,Goods,NL,24-Apr,157.2
+644,Services,NL,24-Apr,169.6
+645,All-items,PEI,24-Apr,165.9
+646,Food,PEI,24-Apr,200.6
+647,Shelter,PEI,24-Apr,178.7
+648,"Household operations, furnishings and equipment",PEI,24-Apr,139.1
+649,Clothing and footwear,PEI,24-Apr,102.1
+650,Transportation,PEI,24-Apr,177.4
+651,Gasoline,PEI,24-Apr,260.1
+652,Health and personal care,PEI,24-Apr,154.9
+653,"Recreation, education and reading",PEI,24-Apr,125.7
+654,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Apr,230.8
+655,All-items excluding food and energy,PEI,24-Apr,146.8
+656,All-items excluding energy,PEI,24-Apr,156.4
+657,Energy,PEI,24-Apr,257.0
+658,Goods,PEI,24-Apr,169.5
+659,Services,PEI,24-Apr,160.7
+660,All-items,Canada,24-May,161.5
+661,Food,Canada,24-May,189.0
+662,Shelter,Canada,24-May,181.5
+663,"Household operations, furnishings and equipment",Canada,24-May,131.0
+664,Clothing and footwear,Canada,24-May,95.0
+665,Transportation,Canada,24-May,173.9
+666,Gasoline,Canada,24-May,243.2
+667,Health and personal care,Canada,24-May,151.2
+668,"Recreation, education and reading",Canada,24-May,129.5
+669,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-May,196.4
+670,All-items excluding food and energy,Canada,24-May,151.4
+671,All-items excluding energy,Canada,24-May,157.7
+672,Energy,Canada,24-May,212.8
+673,Goods,Canada,24-May,145.5
+674,Services,Canada,24-May,177.2
+675,All-items,ON,24-May,163.2
+676,Food,ON,24-May,190.7
+677,Shelter,ON,24-May,185.2
+678,"Household operations, furnishings and equipment",ON,24-May,134.7
+679,Clothing and footwear,ON,24-May,92.6
+680,Transportation,ON,24-May,173.6
+681,Gasoline,ON,24-May,241.2
+682,Health and personal care,ON,24-May,152.8
+683,"Recreation, education and reading",ON,24-May,129.8
+684,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-May,195.1
+685,All-items excluding food and energy,ON,24-May,154.5
+686,All-items excluding energy,ON,24-May,160.1
+687,Energy,ON,24-May,212.3
+688,Goods,ON,24-May,143.4
+689,Services,ON,24-May,180.7
+690,All-items,QC,24-May,158.2
+691,Food,QC,24-May,190.1
+692,Shelter,QC,24-May,169.3
+693,"Household operations, furnishings and equipment",QC,24-May,133.5
+694,Clothing and footwear,QC,24-May,92.9
+695,Transportation,QC,24-May,174.1
+696,Gasoline,QC,24-May,243.0
+697,Health and personal care,QC,24-May,152.0
+698,"Recreation, education and reading",QC,24-May,120.0
+699,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-May,192.5
+700,All-items excluding food and energy,QC,24-May,146.7
+701,All-items excluding energy,QC,24-May,154.9
+702,Energy,QC,24-May,194.5
+703,Goods,QC,24-May,145.2
+704,Services,QC,24-May,172.5
+705,All-items,BC,24-May,155.4
+706,Food,BC,24-May,181.8
+707,Shelter,BC,24-May,159.3
+708,"Household operations, furnishings and equipment",BC,24-May,126.6
+709,Clothing and footwear,BC,24-May,104.5
+710,Transportation,BC,24-May,168.7
+711,Gasoline,BC,24-May,273.4
+712,Health and personal care,BC,24-May,144.7
+713,"Recreation, education and reading",BC,24-May,143.5
+714,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-May,183.6
+715,All-items excluding food and energy,BC,24-May,145.0
+716,All-items excluding energy,BC,24-May,151.1
+717,Energy,BC,24-May,224.5
+718,Goods,BC,24-May,144.4
+719,Services,BC,24-May,164.7
+720,All-items,AB,24-May,169.1
+721,Food,AB,24-May,187.8
+722,Shelter,AB,24-May,217.5
+723,"Household operations, furnishings and equipment",AB,24-May,123.8
+724,Clothing and footwear,AB,24-May,97.0
+725,Transportation,AB,24-May,182.9
+726,Gasoline,AB,24-May,237.7
+727,Health and personal care,AB,24-May,158.3
+728,"Recreation, education and reading",AB,24-May,126.3
+729,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-May,194.3
+730,All-items excluding food and energy,AB,24-May,159.4
+731,All-items excluding energy,AB,24-May,164.2
+732,Energy,AB,24-May,238.5
+733,Goods,AB,24-May,146.1
+734,Services,AB,24-May,193.8
+735,All-items,MB,24-May,161.1
+736,Food,MB,24-May,186.3
+737,Shelter,MB,24-May,192.4
+738,"Household operations, furnishings and equipment",MB,24-May,129.7
+739,Clothing and footwear,MB,24-May,92.5
+740,Transportation,MB,24-May,168.6
+741,Gasoline,MB,24-May,217.2
+742,Health and personal care,MB,24-May,141.6
+743,"Recreation, education and reading",MB,24-May,130.1
+744,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-May,208.7
+745,All-items excluding food and energy,MB,24-May,153.1
+746,All-items excluding energy,MB,24-May,158.9
+747,Energy,MB,24-May,189.2
+748,Goods,MB,24-May,143.7
+749,Services,MB,24-May,180.8
+750,All-items,SK,24-May,162.8
+751,Food,SK,24-May,191.1
+752,Shelter,SK,24-May,199.6
+753,"Household operations, furnishings and equipment",SK,24-May,119.5
+754,Clothing and footwear,SK,24-May,98.8
+755,Transportation,SK,24-May,166.7
+756,Gasoline,SK,24-May,215.4
+757,Health and personal care,SK,24-May,149.2
+758,"Recreation, education and reading",SK,24-May,130.8
+759,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-May,212.3
+760,All-items excluding food and energy,SK,24-May,153.7
+761,All-items excluding energy,SK,24-May,160.0
+762,Energy,SK,24-May,190.7
+763,Goods,SK,24-May,145.6
+764,Services,SK,24-May,184.0
+765,All-items,NS,24-May,164.7
+766,Food,NS,24-May,195.7
+767,Shelter,NS,24-May,186.6
+768,"Household operations, furnishings and equipment",NS,24-May,128.0
+769,Clothing and footwear,NS,24-May,96.1
+770,Transportation,NS,24-May,173.2
+771,Gasoline,NS,24-May,241.7
+772,Health and personal care,NS,24-May,148.0
+773,"Recreation, education and reading",NS,24-May,134.9
+774,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-May,239.7
+775,All-items excluding food and energy,NS,24-May,148.5
+776,All-items excluding energy,NS,24-May,156.8
+777,Energy,NS,24-May,239.2
+778,Goods,NS,24-May,161.0
+779,Services,NS,24-May,168.5
+780,All-items,NB,24-May,161.9
+781,Food,NB,24-May,201.3
+782,Shelter,NB,24-May,174.1
+783,"Household operations, furnishings and equipment",NB,24-May,128.0
+784,Clothing and footwear,NB,24-May,103.2
+785,Transportation,NB,24-May,172.6
+786,Gasoline,NB,24-May,233.0
+787,Health and personal care,NB,24-May,141.7
+788,"Recreation, education and reading",NB,24-May,132.5
+789,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-May,230.9
+790,All-items excluding food and energy,NB,24-May,145.4
+791,All-items excluding energy,NB,24-May,155.2
+792,Energy,NB,24-May,217.7
+793,Goods,NB,24-May,157.7
+794,Services,NB,24-May,166.5
+795,All-items,NL,24-May,162.7
+796,Food,NL,24-May,188.0
+797,Shelter,NL,24-May,196.2
+798,"Household operations, furnishings and equipment",NL,24-May,123.2
+799,Clothing and footwear,NL,24-May,91.8
+800,Transportation,NL,24-May,176.9
+801,Gasoline,NL,24-May,239.2
+802,Health and personal care,NL,24-May,146.6
+803,"Recreation, education and reading",NL,24-May,121.3
+804,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-May,232.0
+805,All-items excluding food and energy,NL,24-May,146.2
+806,All-items excluding energy,NL,24-May,154.0
+807,Energy,NL,24-May,237.3
+808,Goods,NL,24-May,157.5
+809,Services,NL,24-May,170.1
+810,All-items,PEI,24-May,166.4
+811,Food,PEI,24-May,201.6
+812,Shelter,PEI,24-May,177.7
+813,"Household operations, furnishings and equipment",PEI,24-May,137.9
+814,Clothing and footwear,PEI,24-May,103.0
+815,Transportation,PEI,24-May,178.5
+816,Gasoline,PEI,24-May,265.0
+817,Health and personal care,PEI,24-May,155.5
+818,"Recreation, education and reading",PEI,24-May,129.1
+819,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-May,232.4
+820,All-items excluding food and energy,PEI,24-May,147.4
+821,All-items excluding energy,PEI,24-May,157.0
+822,Energy,PEI,24-May,256.5
+823,Goods,PEI,24-May,169.6
+824,Services,PEI,24-May,161.7
+825,All-items,Canada,24-Jun,161.4
+826,Food,Canada,24-Jun,190.0
+827,Shelter,Canada,24-Jun,182.1
+828,"Household operations, furnishings and equipment",Canada,24-Jun,131.0
+829,Clothing and footwear,Canada,24-Jun,93.2
+830,Transportation,Canada,24-Jun,173.6
+831,Gasoline,Canada,24-Jun,235.7
+832,Health and personal care,Canada,24-Jun,150.8
+833,"Recreation, education and reading",Canada,24-Jun,127.6
+834,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Jun,196.5
+835,All-items excluding food and energy,Canada,24-Jun,151.4
+836,All-items excluding energy,Canada,24-Jun,157.8
+837,Energy,Canada,24-Jun,208.3
+838,Goods,Canada,24-Jun,144.8
+839,Services,Canada,24-Jun,177.6
+840,All-items,ON,24-Jun,163.1
+841,Food,ON,24-Jun,192.3
+842,Shelter,ON,24-Jun,185.5
+843,"Household operations, furnishings and equipment",ON,24-Jun,134.9
+844,Clothing and footwear,ON,24-Jun,91.7
+845,Transportation,ON,24-Jun,173.9
+846,Gasoline,ON,24-Jun,236.1
+847,Health and personal care,ON,24-Jun,152.5
+848,"Recreation, education and reading",ON,24-Jun,126.7
+849,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Jun,195.3
+850,All-items excluding food and energy,ON,24-Jun,154.3
+851,All-items excluding energy,ON,24-Jun,160.1
+852,Energy,ON,24-Jun,209.3
+853,Goods,ON,24-Jun,143.2
+854,Services,ON,24-Jun,180.7
+855,All-items,QC,24-Jun,157.5
+856,Food,QC,24-Jun,189.6
+857,Shelter,QC,24-Jun,170.0
+858,"Household operations, furnishings and equipment",QC,24-Jun,133.7
+859,Clothing and footwear,QC,24-Jun,89.5
+860,Transportation,QC,24-Jun,173.0
+861,Gasoline,QC,24-Jun,233.3
+862,Health and personal care,QC,24-Jun,151.0
+863,"Recreation, education and reading",QC,24-Jun,118.3
+864,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Jun,192.5
+865,All-items excluding food and energy,QC,24-Jun,146.4
+866,All-items excluding energy,QC,24-Jun,154.5
+867,Energy,QC,24-Jun,189.5
+868,Goods,QC,24-Jun,143.7
+869,Services,QC,24-Jun,172.9
+870,All-items,BC,24-Jun,155.5
+871,Food,BC,24-Jun,182.7
+872,Shelter,BC,24-Jun,160.2
+873,"Household operations, furnishings and equipment",BC,24-Jun,126.7
+874,Clothing and footwear,BC,24-Jun,103.0
+875,Transportation,BC,24-Jun,166.5
+876,Gasoline,BC,24-Jun,255.9
+877,Health and personal care,BC,24-Jun,144.7
+878,"Recreation, education and reading",BC,24-Jun,143.7
+879,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Jun,184.2
+880,All-items excluding food and energy,BC,24-Jun,145.5
+881,All-items excluding energy,BC,24-Jun,151.6
+882,Energy,BC,24-Jun,214.7
+883,Goods,BC,24-Jun,143.4
+884,Services,BC,24-Jun,165.6
+885,All-items,AB,24-Jun,169.4
+886,Food,AB,24-Jun,189.3
+887,Shelter,AB,24-Jun,218.4
+888,"Household operations, furnishings and equipment",AB,24-Jun,124.1
+889,Clothing and footwear,AB,24-Jun,94.6
+890,Transportation,AB,24-Jun,183.9
+891,Gasoline,AB,24-Jun,234.3
+892,Health and personal care,AB,24-Jun,158.7
+893,"Recreation, education and reading",AB,24-Jun,124.9
+894,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Jun,194.5
+895,All-items excluding food and energy,AB,24-Jun,159.7
+896,All-items excluding energy,AB,24-Jun,164.7
+897,Energy,AB,24-Jun,235.0
+898,Goods,AB,24-Jun,145.8
+899,Services,AB,24-Jun,194.7
+900,All-items,MB,24-Jun,160.7
+901,Food,MB,24-Jun,187.1
+902,Shelter,MB,24-Jun,193.3
+903,"Household operations, furnishings and equipment",MB,24-Jun,128.0
+904,Clothing and footwear,MB,24-Jun,91.1
+905,Transportation,MB,24-Jun,168.2
+906,Gasoline,MB,24-Jun,210.7
+907,Health and personal care,MB,24-Jun,142.5
+908,"Recreation, education and reading",MB,24-Jun,127.9
+909,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Jun,209.0
+910,All-items excluding food and energy,MB,24-Jun,152.6
+911,All-items excluding energy,MB,24-Jun,158.6
+912,Energy,MB,24-Jun,185.7
+913,Goods,MB,24-Jun,142.9
+914,Services,MB,24-Jun,180.7
+915,All-items,SK,24-Jun,162.8
+916,Food,SK,24-Jun,191.6
+917,Shelter,SK,24-Jun,200.8
+918,"Household operations, furnishings and equipment",SK,24-Jun,119.2
+919,Clothing and footwear,SK,24-Jun,96.6
+920,Transportation,SK,24-Jun,166.7
+921,Gasoline,SK,24-Jun,213.0
+922,Health and personal care,SK,24-Jun,149.5
+923,"Recreation, education and reading",SK,24-Jun,130.4
+924,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Jun,212.6
+925,All-items excluding food and energy,SK,24-Jun,153.8
+926,All-items excluding energy,SK,24-Jun,160.2
+927,Energy,SK,24-Jun,189.4
+928,Goods,SK,24-Jun,145.1
+929,Services,SK,24-Jun,184.9
+930,All-items,NS,24-Jun,165.0
+931,Food,NS,24-Jun,197.0
+932,Shelter,NS,24-Jun,188.0
+933,"Household operations, furnishings and equipment",NS,24-Jun,128.0
+934,Clothing and footwear,NS,24-Jun,95.3
+935,Transportation,NS,24-Jun,171.9
+936,Gasoline,NS,24-Jun,230.5
+937,Health and personal care,NS,24-Jun,147.2
+938,"Recreation, education and reading",NS,24-Jun,135.6
+939,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Jun,239.7
+940,All-items excluding food and energy,NS,24-Jun,149.2
+941,All-items excluding energy,NS,24-Jun,157.6
+942,Energy,NS,24-Jun,232.3
+943,Goods,NS,24-Jun,159.9
+944,Services,NS,24-Jun,170.3
+945,All-items,NB,24-Jun,162.0
+946,Food,NB,24-Jun,202.7
+947,Shelter,NB,24-Jun,174.3
+948,"Household operations, furnishings and equipment",NB,24-Jun,128.9
+949,Clothing and footwear,NB,24-Jun,102.6
+950,Transportation,NB,24-Jun,171.6
+951,Gasoline,NB,24-Jun,225.2
+952,Health and personal care,NB,24-Jun,141.2
+953,"Recreation, education and reading",NB,24-Jun,132.5
+954,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Jun,230.3
+955,All-items excluding food and energy,NB,24-Jun,145.7
+956,All-items excluding energy,NB,24-Jun,155.7
+957,Energy,NB,24-Jun,213.1
+958,Goods,NB,24-Jun,157.4
+959,Services,NB,24-Jun,167.1
+960,All-items,NL,24-Jun,162.5
+961,Food,NL,24-Jun,189.0
+962,Shelter,NL,24-Jun,196.4
+963,"Household operations, furnishings and equipment",NL,24-Jun,123.0
+964,Clothing and footwear,NL,24-Jun,89.8
+965,Transportation,NL,24-Jun,175.8
+966,Gasoline,NL,24-Jun,229.0
+967,Health and personal care,NL,24-Jun,146.5
+968,"Recreation, education and reading",NL,24-Jun,121.4
+969,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Jun,231.6
+970,All-items excluding food and energy,NL,24-Jun,146.3
+971,All-items excluding energy,NL,24-Jun,154.3
+972,Energy,NL,24-Jun,231.2
+973,Goods,NL,24-Jun,156.3
+974,Services,NL,24-Jun,171.2
+975,All-items,PEI,24-Jun,166.4
+976,Food,PEI,24-Jun,203.4
+977,Shelter,PEI,24-Jun,176.9
+978,"Household operations, furnishings and equipment",PEI,24-Jun,138.7
+979,Clothing and footwear,PEI,24-Jun,100.0
+980,Transportation,PEI,24-Jun,177.1
+981,Gasoline,PEI,24-Jun,255.8
+982,Health and personal care,PEI,24-Jun,156.3
+983,"Recreation, education and reading",PEI,24-Jun,129.5
+984,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Jun,232.3
+985,All-items excluding food and energy,PEI,24-Jun,147.5
+986,All-items excluding energy,PEI,24-Jun,157.3
+987,Energy,PEI,24-Jun,249.7
+988,Goods,PEI,24-Jun,169.0
+989,Services,PEI,24-Jun,162.1
+990,All-items,Canada,24-Jul,162.1
+991,Food,Canada,24-Jul,190.5
+992,Shelter,Canada,24-Jul,182.5
+993,"Household operations, furnishings and equipment",Canada,24-Jul,131.7
+994,Clothing and footwear,Canada,24-Jul,92.6
+995,Transportation,Canada,24-Jul,175.9
+996,Gasoline,Canada,24-Jul,241.4
+997,Health and personal care,Canada,24-Jul,150.8
+998,"Recreation, education and reading",Canada,24-Jul,129.1
+999,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Jul,196.4
+1000,All-items excluding food and energy,Canada,24-Jul,152.0
+1001,All-items excluding energy,Canada,24-Jul,158.5
+1002,Energy,Canada,24-Jul,211.6
+1003,Goods,Canada,24-Jul,145.1
+1004,Services,Canada,24-Jul,178.8
+1005,All-items,ON,24-Jul,163.9
+1006,Food,ON,24-Jul,192.7
+1007,Shelter,ON,24-Jul,185.9
+1008,"Household operations, furnishings and equipment",ON,24-Jul,135.6
+1009,Clothing and footwear,ON,24-Jul,92.1
+1010,Transportation,ON,24-Jul,176.0
+1011,Gasoline,ON,24-Jul,242.8
+1012,Health and personal care,ON,24-Jul,152.3
+1013,"Recreation, education and reading",ON,24-Jul,128.2
+1014,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Jul,194.8
+1015,All-items excluding food and energy,ON,24-Jul,154.9
+1016,All-items excluding energy,ON,24-Jul,160.8
+1017,Energy,ON,24-Jul,213.1
+1018,Goods,ON,24-Jul,143.6
+1019,Services,ON,24-Jul,181.8
+1020,All-items,QC,24-Jul,157.9
+1021,Food,QC,24-Jul,190.3
+1022,Shelter,QC,24-Jul,170.7
+1023,"Household operations, furnishings and equipment",QC,24-Jul,133.0
+1024,Clothing and footwear,QC,24-Jul,87.2
+1025,Transportation,QC,24-Jul,174.4
+1026,Gasoline,QC,24-Jul,238.9
+1027,Health and personal care,QC,24-Jul,152.0
+1028,"Recreation, education and reading",QC,24-Jul,119.4
+1029,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Jul,192.5
+1030,All-items excluding food and energy,QC,24-Jul,146.5
+1031,All-items excluding energy,QC,24-Jul,154.8
+1032,Energy,QC,24-Jul,192.4
+1033,Goods,QC,24-Jul,143.5
+1034,Services,QC,24-Jul,173.9
+1035,All-items,BC,24-Jul,156.4
+1036,Food,BC,24-Jul,182.7
+1037,Shelter,BC,24-Jul,160.3
+1038,"Household operations, furnishings and equipment",BC,24-Jul,128.5
+1039,Clothing and footwear,BC,24-Jul,102.1
+1040,Transportation,BC,24-Jul,169.4
+1041,Gasoline,BC,24-Jul,253.5
+1042,Health and personal care,BC,24-Jul,143.9
+1043,"Recreation, education and reading",BC,24-Jul,145.9
+1044,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Jul,184.6
+1045,All-items excluding food and energy,BC,24-Jul,146.5
+1046,All-items excluding energy,BC,24-Jul,152.5
+1047,Energy,BC,24-Jul,213.5
+1048,Goods,BC,24-Jul,143.6
+1049,Services,BC,24-Jul,167.0
+1050,All-items,AB,24-Jul,170.4
+1051,Food,AB,24-Jul,189.9
+1052,Shelter,AB,24-Jul,218.6
+1053,"Household operations, furnishings and equipment",AB,24-Jul,125.0
+1054,Clothing and footwear,AB,24-Jul,94.7
+1055,Transportation,AB,24-Jul,187.6
+1056,Gasoline,AB,24-Jul,242.0
+1057,Health and personal care,AB,24-Jul,158.4
+1058,"Recreation, education and reading",AB,24-Jul,126.0
+1059,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Jul,193.7
+1060,All-items excluding food and energy,AB,24-Jul,160.5
+1061,All-items excluding energy,AB,24-Jul,165.5
+1062,Energy,AB,24-Jul,240.3
+1063,Goods,AB,24-Jul,146.4
+1064,Services,AB,24-Jul,196.2
+1065,All-items,MB,24-Jul,162.2
+1066,Food,MB,24-Jul,188.3
+1067,Shelter,MB,24-Jul,194.7
+1068,"Household operations, furnishings and equipment",MB,24-Jul,130.1
+1069,Clothing and footwear,MB,24-Jul,90.4
+1070,Transportation,MB,24-Jul,171.0
+1071,Gasoline,MB,24-Jul,222.0
+1072,Health and personal care,MB,24-Jul,142.3
+1073,"Recreation, education and reading",MB,24-Jul,129.9
+1074,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Jul,210.0
+1075,All-items excluding food and energy,MB,24-Jul,153.9
+1076,All-items excluding energy,MB,24-Jul,159.9
+1077,Energy,MB,24-Jul,191.8
+1078,Goods,MB,24-Jul,144.1
+1079,Services,MB,24-Jul,182.7
+1080,All-items,SK,24-Jul,163.6
+1081,Food,SK,24-Jul,192.7
+1082,Shelter,SK,24-Jul,201.0
+1083,"Household operations, furnishings and equipment",SK,24-Jul,119.9
+1084,Clothing and footwear,SK,24-Jul,96.1
+1085,Transportation,SK,24-Jul,169.0
+1086,Gasoline,SK,24-Jul,222.1
+1087,Health and personal care,SK,24-Jul,149.2
+1088,"Recreation, education and reading",SK,24-Jul,131.1
+1089,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Jul,212.9
+1090,All-items excluding food and energy,SK,24-Jul,154.1
+1091,All-items excluding energy,SK,24-Jul,160.6
+1092,Energy,SK,24-Jul,194.5
+1093,Goods,SK,24-Jul,146.0
+1094,Services,SK,24-Jul,185.6
+1095,All-items,NS,24-Jul,165.9
+1096,Food,NS,24-Jul,197.4
+1097,Shelter,NS,24-Jul,189.2
+1098,"Household operations, furnishings and equipment",NS,24-Jul,128.1
+1099,Clothing and footwear,NS,24-Jul,95.8
+1100,Transportation,NS,24-Jul,174.3
+1101,Gasoline,NS,24-Jul,234.5
+1102,Health and personal care,NS,24-Jul,146.1
+1103,"Recreation, education and reading",NS,24-Jul,137.3
+1104,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Jul,240.0
+1105,All-items excluding food and energy,NS,24-Jul,150.0
+1106,All-items excluding energy,NS,24-Jul,158.3
+1107,Energy,NS,24-Jul,235.6
+1108,Goods,NS,24-Jul,160.3
+1109,Services,NS,24-Jul,171.9
+1110,All-items,NB,24-Jul,162.9
+1111,Food,NB,24-Jul,203.8
+1112,Shelter,NB,24-Jul,174.9
+1113,"Household operations, furnishings and equipment",NB,24-Jul,130.5
+1114,Clothing and footwear,NB,24-Jul,100.5
+1115,Transportation,NB,24-Jul,173.5
+1116,Gasoline,NB,24-Jul,230.9
+1117,Health and personal care,NB,24-Jul,140.6
+1118,"Recreation, education and reading",NB,24-Jul,133.2
+1119,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Jul,231.4
+1120,All-items excluding food and energy,NB,24-Jul,146.3
+1121,All-items excluding energy,NB,24-Jul,156.3
+1122,Energy,NB,24-Jul,216.8
+1123,Goods,NB,24-Jul,157.7
+1124,Services,NB,24-Jul,168.7
+1125,All-items,NL,24-Jul,163.1
+1126,Food,NL,24-Jul,189.5
+1127,Shelter,NL,24-Jul,195.8
+1128,"Household operations, furnishings and equipment",NL,24-Jul,124.2
+1129,Clothing and footwear,NL,24-Jul,88.9
+1130,Transportation,NL,24-Jul,178.4
+1131,Gasoline,NL,24-Jul,233.6
+1132,Health and personal care,NL,24-Jul,145.1
+1133,"Recreation, education and reading",NL,24-Jul,121.9
+1134,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Jul,231.7
+1135,All-items excluding food and energy,NL,24-Jul,146.6
+1136,All-items excluding energy,NL,24-Jul,154.7
+1137,Energy,NL,24-Jul,234.4
+1138,Goods,NL,24-Jul,156.6
+1139,Services,NL,24-Jul,172.3
+1140,All-items,PEI,24-Jul,167.1
+1141,Food,PEI,24-Jul,204.3
+1142,Shelter,PEI,24-Jul,176.4
+1143,"Household operations, furnishings and equipment",PEI,24-Jul,139.1
+1144,Clothing and footwear,PEI,24-Jul,99.6
+1145,Transportation,PEI,24-Jul,179.6
+1146,Gasoline,PEI,24-Jul,263.2
+1147,Health and personal care,PEI,24-Jul,156.2
+1148,"Recreation, education and reading",PEI,24-Jul,131.4
+1149,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Jul,232.0
+1150,All-items excluding food and energy,PEI,24-Jul,147.7
+1151,All-items excluding energy,PEI,24-Jul,157.7
+1152,Energy,PEI,24-Jul,256.2
+1153,Goods,PEI,24-Jul,169.8
+1154,Services,PEI,24-Jul,162.8
+1155,All-items,Canada,24-Aug,161.8
+1156,Food,Canada,24-Aug,190.3
+1157,Shelter,Canada,24-Aug,183.3
+1158,"Household operations, furnishings and equipment",Canada,24-Aug,131.2
+1159,Clothing and footwear,Canada,24-Aug,92.0
+1160,Transportation,Canada,24-Aug,173.5
+1161,Gasoline,Canada,24-Aug,235.2
+1162,Health and personal care,Canada,24-Aug,151.1
+1163,"Recreation, education and reading",Canada,24-Aug,128.0
+1164,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Aug,197.9
+1165,All-items excluding food and energy,Canada,24-Aug,151.8
+1166,All-items excluding energy,Canada,24-Aug,158.3
+1167,Energy,Canada,24-Aug,208.2
+1168,Goods,Canada,24-Aug,144.6
+1169,Services,Canada,24-Aug,178.6
+1170,All-items,ON,24-Aug,163.3
+1171,Food,ON,24-Aug,192.4
+1172,Shelter,ON,24-Aug,186.4
+1173,"Household operations, furnishings and equipment",ON,24-Aug,134.6
+1174,Clothing and footwear,ON,24-Aug,91.4
+1175,Transportation,ON,24-Aug,173.4
+1176,Gasoline,ON,24-Aug,234.4
+1177,Health and personal care,ON,24-Aug,153.3
+1178,"Recreation, education and reading",ON,24-Aug,127.0
+1179,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Aug,196.8
+1180,All-items excluding food and energy,ON,24-Aug,154.6
+1181,All-items excluding energy,ON,24-Aug,160.5
+1182,Energy,ON,24-Aug,208.2
+1183,Goods,ON,24-Aug,142.8
+1184,Services,ON,24-Aug,181.5
+1185,All-items,QC,24-Aug,157.7
+1186,Food,QC,24-Aug,190.4
+1187,Shelter,QC,24-Aug,172.1
+1188,"Household operations, furnishings and equipment",QC,24-Aug,132.6
+1189,Clothing and footwear,QC,24-Aug,86.4
+1190,Transportation,QC,24-Aug,172.0
+1191,Gasoline,QC,24-Aug,231.1
+1192,Health and personal care,QC,24-Aug,151.7
+1193,"Recreation, education and reading",QC,24-Aug,118.6
+1194,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Aug,195.0
+1195,All-items excluding food and energy,QC,24-Aug,146.6
+1196,All-items excluding energy,QC,24-Aug,154.8
+1197,Energy,QC,24-Aug,188.2
+1198,Goods,QC,24-Aug,143.2
+1199,Services,QC,24-Aug,174.0
+1200,All-items,BC,24-Aug,156.2
+1201,Food,BC,24-Aug,183.0
+1202,Shelter,BC,24-Aug,160.8
+1203,"Household operations, furnishings and equipment",BC,24-Aug,128.2
+1204,Clothing and footwear,BC,24-Aug,101.7
+1205,Transportation,BC,24-Aug,167.9
+1206,Gasoline,BC,24-Aug,248.7
+1207,Health and personal care,BC,24-Aug,144.4
+1208,"Recreation, education and reading",BC,24-Aug,144.6
+1209,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Aug,185.5
+1210,All-items excluding food and energy,BC,24-Aug,146.4
+1211,All-items excluding energy,BC,24-Aug,152.5
+1212,Energy,BC,24-Aug,210.8
+1213,Goods,BC,24-Aug,143.4
+1214,Services,BC,24-Aug,166.9
+1215,All-items,AB,24-Aug,170.2
+1216,Food,AB,24-Aug,189.7
+1217,Shelter,AB,24-Aug,220.3
+1218,"Household operations, furnishings and equipment",AB,24-Aug,125.3
+1219,Clothing and footwear,AB,24-Aug,95.1
+1220,Transportation,AB,24-Aug,184.7
+1221,Gasoline,AB,24-Aug,238.5
+1222,Health and personal care,AB,24-Aug,158.4
+1223,"Recreation, education and reading",AB,24-Aug,124.9
+1224,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Aug,194.5
+1225,All-items excluding food and energy,AB,24-Aug,160.4
+1226,All-items excluding energy,AB,24-Aug,165.3
+1227,Energy,AB,24-Aug,239.7
+1228,Goods,AB,24-Aug,146.4
+1229,Services,AB,24-Aug,195.8
+1230,All-items,MB,24-Aug,161.5
+1231,Food,MB,24-Aug,187.8
+1232,Shelter,MB,24-Aug,194.0
+1233,"Household operations, furnishings and equipment",MB,24-Aug,129.0
+1234,Clothing and footwear,MB,24-Aug,90.3
+1235,Transportation,MB,24-Aug,169.9
+1236,Gasoline,MB,24-Aug,225.6
+1237,Health and personal care,MB,24-Aug,141.9
+1238,"Recreation, education and reading",MB,24-Aug,129.2
+1239,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Aug,209.0
+1240,All-items excluding food and energy,MB,24-Aug,152.9
+1241,All-items excluding energy,MB,24-Aug,159.0
+1242,Energy,MB,24-Aug,193.4
+1243,Goods,MB,24-Aug,144.0
+1244,Services,MB,24-Aug,181.2
+1245,All-items,SK,24-Aug,163.4
+1246,Food,SK,24-Aug,192.2
+1247,Shelter,SK,24-Aug,201.0
+1248,"Household operations, furnishings and equipment",SK,24-Aug,120.3
+1249,Clothing and footwear,SK,24-Aug,96.9
+1250,Transportation,SK,24-Aug,168.9
+1251,Gasoline,SK,24-Aug,228.2
+1252,Health and personal care,SK,24-Aug,147.9
+1253,"Recreation, education and reading",SK,24-Aug,129.7
+1254,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Aug,212.6
+1255,All-items excluding food and energy,SK,24-Aug,153.6
+1256,All-items excluding energy,SK,24-Aug,160.1
+1257,Energy,SK,24-Aug,197.9
+1258,Goods,SK,24-Aug,146.2
+1259,Services,SK,24-Aug,184.7
+1260,All-items,NS,24-Aug,165.0
+1261,Food,NS,24-Aug,196.6
+1262,Shelter,NS,24-Aug,189.0
+1263,"Household operations, furnishings and equipment",NS,24-Aug,128.6
+1264,Clothing and footwear,NS,24-Aug,94.8
+1265,Transportation,NS,24-Aug,171.1
+1266,Gasoline,NS,24-Aug,225.4
+1267,Health and personal care,NS,24-Aug,146.2
+1268,"Recreation, education and reading",NS,24-Aug,135.8
+1269,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Aug,240.1
+1270,All-items excluding food and energy,NS,24-Aug,149.5
+1271,All-items excluding energy,NS,24-Aug,157.8
+1272,Energy,NS,24-Aug,229.9
+1273,Goods,NS,24-Aug,159.3
+1274,Services,NS,24-Aug,171.1
+1275,All-items,NB,24-Aug,161.8
+1276,Food,NB,24-Aug,202.8
+1277,Shelter,NB,24-Aug,174.8
+1278,"Household operations, furnishings and equipment",NB,24-Aug,129.1
+1279,Clothing and footwear,NB,24-Aug,97.9
+1280,Transportation,NB,24-Aug,171.1
+1281,Gasoline,NB,24-Aug,223.3
+1282,Health and personal care,NB,24-Aug,141.3
+1283,"Recreation, education and reading",NB,24-Aug,132.8
+1284,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Aug,231.9
+1285,All-items excluding food and energy,NB,24-Aug,145.7
+1286,All-items excluding energy,NB,24-Aug,155.7
+1287,Energy,NB,24-Aug,211.8
+1288,Goods,NB,24-Aug,156.2
+1289,Services,NB,24-Aug,168.4
+1290,All-items,NL,24-Aug,163.1
+1291,Food,NL,24-Aug,190.3
+1292,Shelter,NL,24-Aug,199.2
+1293,"Household operations, furnishings and equipment",NL,24-Aug,124.0
+1294,Clothing and footwear,NL,24-Aug,88.1
+1295,Transportation,NL,24-Aug,175.1
+1296,Gasoline,NL,24-Aug,227.0
+1297,Health and personal care,NL,24-Aug,145.8
+1298,"Recreation, education and reading",NL,24-Aug,121.5
+1299,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Aug,232.3
+1300,All-items excluding food and energy,NL,24-Aug,146.4
+1301,All-items excluding energy,NL,24-Aug,154.6
+1302,Energy,NL,24-Aug,235.2
+1303,Goods,NL,24-Aug,156.7
+1304,Services,NL,24-Aug,172.2
+1305,All-items,PEI,24-Aug,166.8
+1306,Food,PEI,24-Aug,202.6
+1307,Shelter,PEI,24-Aug,177.1
+1308,"Household operations, furnishings and equipment",PEI,24-Aug,141.8
+1309,Clothing and footwear,PEI,24-Aug,98.0
+1310,Transportation,PEI,24-Aug,177.0
+1311,Gasoline,PEI,24-Aug,255.9
+1312,Health and personal care,PEI,24-Aug,156.3
+1313,"Recreation, education and reading",PEI,24-Aug,130.5
+1314,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Aug,233.2
+1315,All-items excluding food and energy,PEI,24-Aug,148.2
+1316,All-items excluding energy,PEI,24-Aug,157.8
+1317,Energy,PEI,24-Aug,249.4
+1318,Goods,PEI,24-Aug,168.2
+1319,Services,PEI,24-Aug,163.8
+1320,All-items,Canada,24-Sep,161.1
+1321,Food,Canada,24-Sep,190.3
+1322,Shelter,Canada,24-Sep,183.5
+1323,"Household operations, furnishings and equipment",Canada,24-Sep,131.0
+1324,Clothing and footwear,Canada,24-Sep,92.8
+1325,Transportation,Canada,24-Sep,169.3
+1326,Gasoline,Canada,24-Sep,218.4
+1327,Health and personal care,Canada,24-Sep,151.9
+1328,"Recreation, education and reading",Canada,24-Sep,127.5
+1329,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Sep,197.8
+1330,All-items excluding food and energy,Canada,24-Sep,151.7
+1331,All-items excluding energy,Canada,24-Sep,158.1
+1332,Energy,Canada,24-Sep,198.3
+1333,Goods,Canada,24-Sep,143.7
+1334,Services,Canada,24-Sep,178.2
+1335,All-items,ON,24-Sep,162.8
+1336,Food,ON,24-Sep,192.5
+1337,Shelter,ON,24-Sep,186.6
+1338,"Household operations, furnishings and equipment",ON,24-Sep,134.4
+1339,Clothing and footwear,ON,24-Sep,91.4
+1340,Transportation,ON,24-Sep,169.3
+1341,Gasoline,ON,24-Sep,217.0
+1342,Health and personal care,ON,24-Sep,154.7
+1343,"Recreation, education and reading",ON,24-Sep,126.8
+1344,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Sep,195.7
+1345,All-items excluding food and energy,ON,24-Sep,154.5
+1346,All-items excluding energy,ON,24-Sep,160.4
+1347,Energy,ON,24-Sep,198.2
+1348,Goods,ON,24-Sep,141.9
+1349,Services,ON,24-Sep,181.1
+1350,All-items,QC,24-Sep,157.4
+1351,Food,QC,24-Sep,190.2
+1352,Shelter,QC,24-Sep,172.0
+1353,"Household operations, furnishings and equipment",QC,24-Sep,133.1
+1354,Clothing and footwear,QC,24-Sep,88.5
+1355,Transportation,QC,24-Sep,168.2
+1356,Gasoline,QC,24-Sep,214.3
+1357,Health and personal care,QC,24-Sep,152.3
+1358,"Recreation, education and reading",QC,24-Sep,118.9
+1359,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Sep,194.6
+1360,All-items excluding food and energy,QC,24-Sep,146.9
+1361,All-items excluding energy,QC,24-Sep,155.0
+1362,Energy,QC,24-Sep,179.2
+1363,Goods,QC,24-Sep,142.6
+1364,Services,QC,24-Sep,173.9
+1365,All-items,BC,24-Sep,155.8
+1366,Food,BC,24-Sep,183.3
+1367,Shelter,BC,24-Sep,161.1
+1368,"Household operations, furnishings and equipment",BC,24-Sep,127.5
+1369,Clothing and footwear,BC,24-Sep,101.6
+1370,Transportation,BC,24-Sep,166.0
+1371,Gasoline,BC,24-Sep,241.2
+1372,Health and personal care,BC,24-Sep,144.5
+1373,"Recreation, education and reading",BC,24-Sep,142.9
+1374,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Sep,186.1
+1375,All-items excluding food and energy,BC,24-Sep,146.1
+1376,All-items excluding energy,BC,24-Sep,152.2
+1377,Energy,BC,24-Sep,206.5
+1378,Goods,BC,24-Sep,142.8
+1379,Services,BC,24-Sep,166.6
+1380,All-items,AB,24-Sep,169.2
+1381,Food,AB,24-Sep,189.5
+1382,Shelter,AB,24-Sep,220.6
+1383,"Household operations, furnishings and equipment",AB,24-Sep,124.7
+1384,Clothing and footwear,AB,24-Sep,95.9
+1385,Transportation,AB,24-Sep,178.4
+1386,Gasoline,AB,24-Sep,218.6
+1387,Health and personal care,AB,24-Sep,158.8
+1388,"Recreation, education and reading",AB,24-Sep,124.5
+1389,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Sep,195.3
+1390,All-items excluding food and energy,AB,24-Sep,160.1
+1391,All-items excluding energy,AB,24-Sep,165.0
+1392,Energy,AB,24-Sep,224.8
+1393,Goods,AB,24-Sep,144.9
+1394,Services,AB,24-Sep,195.4
+1395,All-items,MB,24-Sep,160.4
+1396,Food,MB,24-Sep,187.2
+1397,Shelter,MB,24-Sep,195.1
+1398,"Household operations, furnishings and equipment",MB,24-Sep,128.0
+1399,Clothing and footwear,MB,24-Sep,92.3
+1400,Transportation,MB,24-Sep,163.6
+1401,Gasoline,MB,24-Sep,203.1
+1402,Health and personal care,MB,24-Sep,142.0
+1403,"Recreation, education and reading",MB,24-Sep,128.1
+1404,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Sep,210.3
+1405,All-items excluding food and energy,MB,24-Sep,152.6
+1406,All-items excluding energy,MB,24-Sep,158.6
+1407,Energy,MB,24-Sep,181.2
+1408,Goods,MB,24-Sep,142.6
+1409,Services,MB,24-Sep,180.6
+1410,All-items,SK,24-Sep,162.3
+1411,Food,SK,24-Sep,191.3
+1412,Shelter,SK,24-Sep,201.5
+1413,"Household operations, furnishings and equipment",SK,24-Sep,119.8
+1414,Clothing and footwear,SK,24-Sep,98.0
+1415,Transportation,SK,24-Sep,163.3
+1416,Gasoline,SK,24-Sep,208.6
+1417,Health and personal care,SK,24-Sep,148.1
+1418,"Recreation, education and reading",SK,24-Sep,129.3
+1419,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Sep,212.6
+1420,All-items excluding food and energy,SK,24-Sep,153.4
+1421,All-items excluding energy,SK,24-Sep,159.8
+1422,Energy,SK,24-Sep,186.8
+1423,Goods,SK,24-Sep,144.6
+1424,Services,SK,24-Sep,184.2
+1425,All-items,NS,24-Sep,164.1
+1426,Food,NS,24-Sep,196.1
+1427,Shelter,NS,24-Sep,188.4
+1428,"Household operations, furnishings and equipment",NS,24-Sep,128.2
+1429,Clothing and footwear,NS,24-Sep,96.8
+1430,Transportation,NS,24-Sep,166.6
+1431,Gasoline,NS,24-Sep,207.9
+1432,Health and personal care,NS,24-Sep,146.4
+1433,"Recreation, education and reading",NS,24-Sep,135.3
+1434,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Sep,240.7
+1435,All-items excluding food and energy,NS,24-Sep,149.5
+1436,All-items excluding energy,NS,24-Sep,157.7
+1437,Energy,NS,24-Sep,218.1
+1438,Goods,NS,24-Sep,157.7
+1439,Services,NS,24-Sep,170.9
+1440,All-items,NB,24-Sep,160.7
+1441,Food,NB,24-Sep,202.5
+1442,Shelter,NB,24-Sep,174.7
+1443,"Household operations, furnishings and equipment",NB,24-Sep,129.2
+1444,Clothing and footwear,NB,24-Sep,98.1
+1445,Transportation,NB,24-Sep,165.7
+1446,Gasoline,NB,24-Sep,206.3
+1447,Health and personal care,NB,24-Sep,141.4
+1448,"Recreation, education and reading",NB,24-Sep,131.2
+1449,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Sep,232.8
+1450,All-items excluding food and energy,NB,24-Sep,145.3
+1451,All-items excluding energy,NB,24-Sep,155.3
+1452,Energy,NB,24-Sep,201.8
+1453,Goods,NB,24-Sep,155.0
+1454,Services,NB,24-Sep,167.2
+1455,All-items,NL,24-Sep,161.9
+1456,Food,NL,24-Sep,190.7
+1457,Shelter,NL,24-Sep,198.9
+1458,"Household operations, furnishings and equipment",NL,24-Sep,123.6
+1459,Clothing and footwear,NL,24-Sep,88.4
+1460,Transportation,NL,24-Sep,170.3
+1461,Gasoline,NL,24-Sep,210.8
+1462,Health and personal care,NL,24-Sep,145.4
+1463,"Recreation, education and reading",NL,24-Sep,119.0
+1464,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Sep,233.2
+1465,All-items excluding food and energy,NL,24-Sep,145.7
+1466,All-items excluding energy,NL,24-Sep,154.1
+1467,Energy,NL,24-Sep,225.0
+1468,Goods,NL,24-Sep,155.4
+1469,Services,NL,24-Sep,171.0
+1470,All-items,PEI,24-Sep,165.3
+1471,Food,PEI,24-Sep,202.7
+1472,Shelter,PEI,24-Sep,177.2
+1473,"Household operations, furnishings and equipment",PEI,24-Sep,139.3
+1474,Clothing and footwear,PEI,24-Sep,100.2
+1475,Transportation,PEI,24-Sep,171.4
+1476,Gasoline,PEI,24-Sep,237.1
+1477,Health and personal care,PEI,24-Sep,156.4
+1478,"Recreation, education and reading",PEI,24-Sep,129.0
+1479,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Sep,232.9
+1480,All-items excluding food and energy,PEI,24-Sep,147.5
+1481,All-items excluding energy,PEI,24-Sep,157.3
+1482,Energy,PEI,24-Sep,234.3
+1483,Goods,PEI,24-Sep,167.1
+1484,Services,PEI,24-Sep,162.0
+1485,All-items,Canada,24-Oct,161.8
+1486,Food,Canada,24-Oct,190.5
+1487,Shelter,Canada,24-Oct,184.8
+1488,"Household operations, furnishings and equipment",Canada,24-Oct,131.2
+1489,Clothing and footwear,Canada,24-Oct,95.0
+1490,Transportation,Canada,24-Oct,169.9
+1491,Gasoline,Canada,24-Oct,220.0
+1492,Health and personal care,Canada,24-Oct,151.9
+1493,"Recreation, education and reading",Canada,24-Oct,127.5
+1494,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Oct,198.0
+1495,All-items excluding food and energy,Canada,24-Oct,152.4
+1496,All-items excluding energy,Canada,24-Oct,158.8
+1497,Energy,Canada,24-Oct,198.9
+1498,Goods,Canada,24-Oct,144.2
+1499,Services,Canada,24-Oct,179.0
+1500,All-items,ON,24-Oct,163.5
+1501,Food,ON,24-Oct,193.1
+1502,Shelter,ON,24-Oct,187.7
+1503,"Household operations, furnishings and equipment",ON,24-Oct,133.9
+1504,Clothing and footwear,ON,24-Oct,93.3
+1505,Transportation,ON,24-Oct,170.5
+1506,Gasoline,ON,24-Oct,220.8
+1507,Health and personal care,ON,24-Oct,155.0
+1508,"Recreation, education and reading",ON,24-Oct,127.7
+1509,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Oct,196.6
+1510,All-items excluding food and energy,ON,24-Oct,155.3
+1511,All-items excluding energy,ON,24-Oct,161.1
+1512,Energy,ON,24-Oct,199.4
+1513,Goods,ON,24-Oct,142.3
+1514,Services,ON,24-Oct,182.3
+1515,All-items,QC,24-Oct,157.9
+1516,Food,QC,24-Oct,188.9
+1517,Shelter,QC,24-Oct,173.1
+1518,"Household operations, furnishings and equipment",QC,24-Oct,133.7
+1519,Clothing and footwear,QC,24-Oct,93.2
+1520,Transportation,QC,24-Oct,168.0
+1521,Gasoline,QC,24-Oct,212.4
+1522,Health and personal care,QC,24-Oct,152.4
+1523,"Recreation, education and reading",QC,24-Oct,118.5
+1524,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Oct,194.3
+1525,All-items excluding food and energy,QC,24-Oct,147.8
+1526,All-items excluding energy,QC,24-Oct,155.6
+1527,Energy,QC,24-Oct,178.7
+1528,Goods,QC,24-Oct,143.1
+1529,Services,QC,24-Oct,174.4
+1530,All-items,BC,24-Oct,156.2
+1531,Food,BC,24-Oct,184.0
+1532,Shelter,BC,24-Oct,162.9
+1533,"Household operations, furnishings and equipment",BC,24-Oct,128.1
+1534,Clothing and footwear,BC,24-Oct,102.5
+1535,Transportation,BC,24-Oct,166.1
+1536,Gasoline,BC,24-Oct,240.3
+1537,Health and personal care,BC,24-Oct,144.3
+1538,"Recreation, education and reading",BC,24-Oct,139.1
+1539,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Oct,185.5
+1540,All-items excluding food and energy,BC,24-Oct,146.4
+1541,All-items excluding energy,BC,24-Oct,152.6
+1542,Energy,BC,24-Oct,206.1
+1543,Goods,BC,24-Oct,143.3
+1544,Services,BC,24-Oct,166.9
+1545,All-items,AB,24-Oct,170.1
+1546,Food,AB,24-Oct,190.3
+1547,Shelter,AB,24-Oct,222.3
+1548,"Household operations, furnishings and equipment",AB,24-Oct,125.5
+1549,Clothing and footwear,AB,24-Oct,96.7
+1550,Transportation,AB,24-Oct,179.4
+1551,Gasoline,AB,24-Oct,223.4
+1552,Health and personal care,AB,24-Oct,157.8
+1553,"Recreation, education and reading",AB,24-Oct,125.5
+1554,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Oct,195.7
+1555,All-items excluding food and energy,AB,24-Oct,160.9
+1556,All-items excluding energy,AB,24-Oct,165.9
+1557,Energy,AB,24-Oct,227.5
+1558,Goods,AB,24-Oct,145.9
+1559,Services,AB,24-Oct,196.2
+1560,All-items,MB,24-Oct,161.4
+1561,Food,MB,24-Oct,188.1
+1562,Shelter,MB,24-Oct,196.1
+1563,"Household operations, furnishings and equipment",MB,24-Oct,129.3
+1564,Clothing and footwear,MB,24-Oct,94.7
+1565,Transportation,MB,24-Oct,163.1
+1566,Gasoline,MB,24-Oct,200.5
+1567,Health and personal care,MB,24-Oct,142.0
+1568,"Recreation, education and reading",MB,24-Oct,130.2
+1569,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Oct,210.5
+1570,All-items excluding food and energy,MB,24-Oct,153.8
+1571,All-items excluding energy,MB,24-Oct,159.8
+1572,Energy,MB,24-Oct,179.8
+1573,Goods,MB,24-Oct,143.5
+1574,Services,MB,24-Oct,181.6
+1575,All-items,SK,24-Oct,163.1
+1576,Food,SK,24-Oct,192.6
+1577,Shelter,SK,24-Oct,204.1
+1578,"Household operations, furnishings and equipment",SK,24-Oct,120.3
+1579,Clothing and footwear,SK,24-Oct,98.5
+1580,Transportation,SK,24-Oct,162.5
+1581,Gasoline,SK,24-Oct,205.2
+1582,Health and personal care,SK,24-Oct,147.9
+1583,"Recreation, education and reading",SK,24-Oct,130.3
+1584,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Oct,212.5
+1585,All-items excluding food and energy,SK,24-Oct,154.4
+1586,All-items excluding energy,SK,24-Oct,160.8
+1587,Energy,SK,24-Oct,185.1
+1588,Goods,SK,24-Oct,144.9
+1589,Services,SK,24-Oct,185.8
+1590,All-items,NS,24-Oct,164.6
+1591,Food,NS,24-Oct,197.4
+1592,Shelter,NS,24-Oct,189.4
+1593,"Household operations, furnishings and equipment",NS,24-Oct,128.7
+1594,Clothing and footwear,NS,24-Oct,97.1
+1595,Transportation,NS,24-Oct,166.5
+1596,Gasoline,NS,24-Oct,208.0
+1597,Health and personal care,NS,24-Oct,147.3
+1598,"Recreation, education and reading",NS,24-Oct,134.4
+1599,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Oct,242.1
+1600,All-items excluding food and energy,NS,24-Oct,149.8
+1601,All-items excluding energy,NS,24-Oct,158.2
+1602,Energy,NS,24-Oct,217.9
+1603,Goods,NS,24-Oct,158.4
+1604,Services,NS,24-Oct,171.1
+1605,All-items,NB,24-Oct,161.6
+1606,Food,NB,24-Oct,202.4
+1607,Shelter,NB,24-Oct,176.7
+1608,"Household operations, furnishings and equipment",NB,24-Oct,129.9
+1609,Clothing and footwear,NB,24-Oct,98.6
+1610,Transportation,NB,24-Oct,167.0
+1611,Gasoline,NB,24-Oct,209.2
+1612,Health and personal care,NB,24-Oct,141.7
+1613,"Recreation, education and reading",NB,24-Oct,132.1
+1614,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Oct,232.7
+1615,All-items excluding food and energy,NB,24-Oct,146.2
+1616,All-items excluding energy,NB,24-Oct,156.1
+1617,Energy,NB,24-Oct,204.3
+1618,Goods,NB,24-Oct,155.8
+1619,Services,NB,24-Oct,168.3
+1620,All-items,NL,24-Oct,161.9
+1621,Food,NL,24-Oct,189.7
+1622,Shelter,NL,24-Oct,200.2
+1623,"Household operations, furnishings and equipment",NL,24-Oct,122.7
+1624,Clothing and footwear,NL,24-Oct,87.8
+1625,Transportation,NL,24-Oct,170.3
+1626,Gasoline,NL,24-Oct,213.0
+1627,Health and personal care,NL,24-Oct,146.8
+1628,"Recreation, education and reading",NL,24-Oct,119.5
+1629,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Oct,233.3
+1630,All-items excluding food and energy,NL,24-Oct,145.7
+1631,All-items excluding energy,NL,24-Oct,153.9
+1632,Energy,NL,24-Oct,227.2
+1633,Goods,NL,24-Oct,155.4
+1634,Services,NL,24-Oct,171.0
+1635,All-items,PEI,24-Oct,165.5
+1636,Food,PEI,24-Oct,203.3
+1637,Shelter,PEI,24-Oct,178.1
+1638,"Household operations, furnishings and equipment",PEI,24-Oct,139.3
+1639,Clothing and footwear,PEI,24-Oct,101.4
+1640,Transportation,PEI,24-Oct,172.5
+1641,Gasoline,PEI,24-Oct,241.3
+1642,Health and personal care,PEI,24-Oct,155.9
+1643,"Recreation, education and reading",PEI,24-Oct,126.2
+1644,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Oct,232.9
+1645,All-items excluding food and energy,PEI,24-Oct,147.3
+1646,All-items excluding energy,PEI,24-Oct,157.2
+1647,Energy,PEI,24-Oct,238.1
+1648,Goods,PEI,24-Oct,167.5
+1649,Services,PEI,24-Oct,161.9
+1650,All-items,Canada,24-Nov,161.8
+1651,Food,Canada,24-Nov,191.5
+1652,Shelter,Canada,24-Nov,185.3
+1653,"Household operations, furnishings and equipment",Canada,24-Nov,130.0
+1654,Clothing and footwear,Canada,24-Nov,94.2
+1655,Transportation,Canada,24-Nov,170.4
+1656,Gasoline,Canada,24-Nov,220.1
+1657,Health and personal care,Canada,24-Nov,151.6
+1658,"Recreation, education and reading",Canada,24-Nov,126.9
+1659,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Nov,198.3
+1660,All-items excluding food and energy,Canada,24-Nov,152.2
+1661,All-items excluding energy,Canada,24-Nov,158.8
+1662,Energy,Canada,24-Nov,199.5
+1663,Goods,Canada,24-Nov,144.2
+1664,Services,Canada,24-Nov,179.1
+1665,All-items,ON,24-Nov,163.5
+1666,Food,ON,24-Nov,193.9
+1667,Shelter,ON,24-Nov,188.1
+1668,"Household operations, furnishings and equipment",ON,24-Nov,132.8
+1669,Clothing and footwear,ON,24-Nov,92.8
+1670,Transportation,ON,24-Nov,171.1
+1671,Gasoline,ON,24-Nov,221.8
+1672,Health and personal care,ON,24-Nov,153.7
+1673,"Recreation, education and reading",ON,24-Nov,127.2
+1674,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Nov,196.9
+1675,All-items excluding food and energy,ON,24-Nov,155.1
+1676,All-items excluding energy,ON,24-Nov,161.1
+1677,Energy,ON,24-Nov,200.1
+1678,Goods,ON,24-Nov,142.2
+1679,Services,ON,24-Nov,182.3
+1680,All-items,QC,24-Nov,157.8
+1681,Food,QC,24-Nov,190.6
+1682,Shelter,QC,24-Nov,173.7
+1683,"Household operations, furnishings and equipment",QC,24-Nov,132.0
+1684,Clothing and footwear,QC,24-Nov,90.4
+1685,Transportation,QC,24-Nov,169.0
+1686,Gasoline,QC,24-Nov,215.1
+1687,Health and personal care,QC,24-Nov,152.9
+1688,"Recreation, education and reading",QC,24-Nov,117.2
+1689,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Nov,194.2
+1690,All-items excluding food and energy,QC,24-Nov,147.2
+1691,All-items excluding energy,QC,24-Nov,155.4
+1692,Energy,QC,24-Nov,180.4
+1693,Goods,QC,24-Nov,143.0
+1694,Services,QC,24-Nov,174.4
+1695,All-items,BC,24-Nov,156.3
+1696,Food,BC,24-Nov,184.9
+1697,Shelter,BC,24-Nov,163.0
+1698,"Household operations, furnishings and equipment",BC,24-Nov,127.1
+1699,Clothing and footwear,BC,24-Nov,103.8
+1700,Transportation,BC,24-Nov,166.3
+1701,Gasoline,BC,24-Nov,239.8
+1702,Health and personal care,BC,24-Nov,144.0
+1703,"Recreation, education and reading",BC,24-Nov,138.5
+1704,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Nov,185.8
+1705,All-items excluding food and energy,BC,24-Nov,146.4
+1706,All-items excluding energy,BC,24-Nov,152.7
+1707,Energy,BC,24-Nov,205.8
+1708,Goods,BC,24-Nov,143.7
+1709,Services,BC,24-Nov,166.7
+1710,All-items,AB,24-Nov,170.2
+1711,Food,AB,24-Nov,190.5
+1712,Shelter,AB,24-Nov,223.5
+1713,"Household operations, furnishings and equipment",AB,24-Nov,124.6
+1714,Clothing and footwear,AB,24-Nov,95.6
+1715,Transportation,AB,24-Nov,179.1
+1716,Gasoline,AB,24-Nov,217.8
+1717,Health and personal care,AB,24-Nov,158.2
+1718,"Recreation, education and reading",AB,24-Nov,125.3
+1719,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Nov,197.0
+1720,All-items excluding food and energy,AB,24-Nov,161.0
+1721,All-items excluding energy,AB,24-Nov,166.0
+1722,Energy,AB,24-Nov,226.6
+1723,Goods,AB,24-Nov,145.6
+1724,Services,AB,24-Nov,196.8
+1725,All-items,MB,24-Nov,161.2
+1726,Food,MB,24-Nov,189.3
+1727,Shelter,MB,24-Nov,197.4
+1728,"Household operations, furnishings and equipment",MB,24-Nov,127.5
+1729,Clothing and footwear,MB,24-Nov,93.5
+1730,Transportation,MB,24-Nov,162.6
+1731,Gasoline,MB,24-Nov,196.2
+1732,Health and personal care,MB,24-Nov,142.3
+1733,"Recreation, education and reading",MB,24-Nov,129.4
+1734,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Nov,210.2
+1735,All-items excluding food and energy,MB,24-Nov,153.6
+1736,All-items excluding energy,MB,24-Nov,159.8
+1737,Energy,MB,24-Nov,177.3
+1738,Goods,MB,24-Nov,142.8
+1739,Services,MB,24-Nov,182.2
+1740,All-items,SK,24-Nov,163.2
+1741,Food,SK,24-Nov,193.4
+1742,Shelter,SK,24-Nov,204.4
+1743,"Household operations, furnishings and equipment",SK,24-Nov,119.4
+1744,Clothing and footwear,SK,24-Nov,100.0
+1745,Transportation,SK,24-Nov,162.1
+1746,Gasoline,SK,24-Nov,202.4
+1747,Health and personal care,SK,24-Nov,148.9
+1748,"Recreation, education and reading",SK,24-Nov,130.1
+1749,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Nov,212.1
+1750,All-items excluding food and energy,SK,24-Nov,154.5
+1751,All-items excluding energy,SK,24-Nov,161.0
+1752,Energy,SK,24-Nov,183.4
+1753,Goods,SK,24-Nov,145.0
+1754,Services,SK,24-Nov,185.9
+1755,All-items,NS,24-Nov,165.2
+1756,Food,NS,24-Nov,197.4
+1757,Shelter,NS,24-Nov,191.5
+1758,"Household operations, furnishings and equipment",NS,24-Nov,129.1
+1759,Clothing and footwear,NS,24-Nov,95.5
+1760,Transportation,NS,24-Nov,167.9
+1761,Gasoline,NS,24-Nov,210.5
+1762,Health and personal care,NS,24-Nov,147.4
+1763,"Recreation, education and reading",NS,24-Nov,134.0
+1764,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Nov,241.9
+1765,All-items excluding food and energy,NS,24-Nov,150.3
+1766,All-items excluding energy,NS,24-Nov,158.6
+1767,Energy,NS,24-Nov,220.9
+1768,Goods,NS,24-Nov,159.0
+1769,Services,NS,24-Nov,171.8
+1770,All-items,NB,24-Nov,161.6
+1771,Food,NB,24-Nov,203.4
+1772,Shelter,NB,24-Nov,176.7
+1773,"Household operations, furnishings and equipment",NB,24-Nov,128.6
+1774,Clothing and footwear,NB,24-Nov,99.4
+1775,Transportation,NB,24-Nov,167.8
+1776,Gasoline,NB,24-Nov,211.4
+1777,Health and personal care,NB,24-Nov,141.7
+1778,"Recreation, education and reading",NB,24-Nov,131.4
+1779,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Nov,232.5
+1780,All-items excluding food and energy,NB,24-Nov,145.9
+1781,All-items excluding energy,NB,24-Nov,156.0
+1782,Energy,NB,24-Nov,206.1
+1783,Goods,NB,24-Nov,155.9
+1784,Services,NB,24-Nov,168.3
+1785,All-items,NL,24-Nov,162.1
+1786,Food,NL,24-Nov,189.8
+1787,Shelter,NL,24-Nov,201.2
+1788,"Household operations, furnishings and equipment",NL,24-Nov,122.2
+1789,Clothing and footwear,NL,24-Nov,88.7
+1790,Transportation,NL,24-Nov,171.2
+1791,Gasoline,NL,24-Nov,214.3
+1792,Health and personal care,NL,24-Nov,145.7
+1793,"Recreation, education and reading",NL,24-Nov,118.7
+1794,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Nov,233.6
+1795,All-items excluding food and energy,NL,24-Nov,145.8
+1796,All-items excluding energy,NL,24-Nov,154.0
+1797,Energy,NL,24-Nov,228.7
+1798,Goods,NL,24-Nov,155.4
+1799,Services,NL,24-Nov,171.6
+1800,All-items,PEI,24-Nov,165.9
+1801,Food,PEI,24-Nov,203.7
+1802,Shelter,PEI,24-Nov,178.2
+1803,"Household operations, furnishings and equipment",PEI,24-Nov,139.4
+1804,Clothing and footwear,PEI,24-Nov,100.2
+1805,Transportation,PEI,24-Nov,173.3
+1806,Gasoline,PEI,24-Nov,243.5
+1807,Health and personal care,PEI,24-Nov,155.8
+1808,"Recreation, education and reading",PEI,24-Nov,127.6
+1809,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Nov,233.1
+1810,All-items excluding food and energy,PEI,24-Nov,147.4
+1811,All-items excluding energy,PEI,24-Nov,157.3
+1812,Energy,PEI,24-Nov,242.2
+1813,Goods,PEI,24-Nov,168.1
+1814,Services,PEI,24-Nov,162.1
+1815,All-items,Canada,24-Dec,161.2
+1816,Food,Canada,24-Dec,188.0
+1817,Shelter,Canada,24-Dec,185.8
+1818,"Household operations, furnishings and equipment",Canada,24-Dec,128.6
+1819,Clothing and footwear,Canada,24-Dec,91.4
+1820,Transportation,Canada,24-Dec,173.4
+1821,Gasoline,Canada,24-Dec,218.7
+1822,Health and personal care,Canada,24-Dec,151.3
+1823,"Recreation, education and reading",Canada,24-Dec,126.0
+1824,"Alcoholic beverages, tobacco products and recreational cannabis",Canada,24-Dec,193.5
+1825,All-items excluding food and energy,Canada,24-Dec,152.1
+1826,All-items excluding energy,Canada,24-Dec,158.2
+1827,Energy,Canada,24-Dec,199.0
+1828,Goods,Canada,24-Dec,142.9
+1829,Services,Canada,24-Dec,179.2
+1830,All-items,ON,24-Dec,162.7
+1831,Food,ON,24-Dec,188.3
+1832,Shelter,ON,24-Dec,188.8
+1833,"Household operations, furnishings and equipment",ON,24-Dec,131.6
+1834,Clothing and footwear,ON,24-Dec,90.4
+1835,Transportation,ON,24-Dec,174.6
+1836,Gasoline,ON,24-Dec,220.9
+1837,Health and personal care,ON,24-Dec,153.8
+1838,"Recreation, education and reading",ON,24-Dec,125.1
+1839,"Alcoholic beverages, tobacco products and recreational cannabis",ON,24-Dec,190.1
+1840,All-items excluding food and energy,ON,24-Dec,155.0
+1841,All-items excluding energy,ON,24-Dec,160.2
+1842,Energy,ON,24-Dec,199.7
+1843,Goods,ON,24-Dec,141.0
+1844,Services,ON,24-Dec,181.9
+1845,All-items,QC,24-Dec,157.5
+1846,Food,QC,24-Dec,189.6
+1847,Shelter,QC,24-Dec,174.5
+1848,"Household operations, furnishings and equipment",QC,24-Dec,130.8
+1849,Clothing and footwear,QC,24-Dec,86.6
+1850,Transportation,QC,24-Dec,171.3
+1851,Gasoline,QC,24-Dec,214.8
+1852,Health and personal care,QC,24-Dec,152.5
+1853,"Recreation, education and reading",QC,24-Dec,116.7
+1854,"Alcoholic beverages, tobacco products and recreational cannabis",QC,24-Dec,190.5
+1855,All-items excluding food and energy,QC,24-Dec,147.0
+1856,All-items excluding energy,QC,24-Dec,155.0
+1857,Energy,QC,24-Dec,180.3
+1858,Goods,QC,24-Dec,141.8
+1859,Services,QC,24-Dec,175.0
+1860,All-items,BC,24-Dec,156.1
+1861,Food,BC,24-Dec,182.5
+1862,Shelter,BC,24-Dec,163.0
+1863,"Household operations, furnishings and equipment",BC,24-Dec,125.3
+1864,Clothing and footwear,BC,24-Dec,102.2
+1865,Transportation,BC,24-Dec,167.3
+1866,Gasoline,BC,24-Dec,236.5
+1867,Health and personal care,BC,24-Dec,143.4
+1868,"Recreation, education and reading",BC,24-Dec,143.7
+1869,"Alcoholic beverages, tobacco products and recreational cannabis",BC,24-Dec,181.9
+1870,All-items excluding food and energy,BC,24-Dec,146.6
+1871,All-items excluding energy,BC,24-Dec,152.6
+1872,Energy,BC,24-Dec,203.8
+1873,Goods,BC,24-Dec,142.2
+1874,Services,BC,24-Dec,167.6
+1875,All-items,AB,24-Dec,169.7
+1876,Food,AB,24-Dec,188.8
+1877,Shelter,AB,24-Dec,224.2
+1878,"Household operations, furnishings and equipment",AB,24-Dec,122.8
+1879,Clothing and footwear,AB,24-Dec,93.5
+1880,Transportation,AB,24-Dec,183.2
+1881,Gasoline,AB,24-Dec,214.7
+1882,Health and personal care,AB,24-Dec,157.4
+1883,"Recreation, education and reading",AB,24-Dec,123.2
+1884,"Alcoholic beverages, tobacco products and recreational cannabis",AB,24-Dec,194.7
+1885,All-items excluding food and energy,AB,24-Dec,160.8
+1886,All-items excluding energy,AB,24-Dec,165.5
+1887,Energy,AB,24-Dec,226.7
+1888,Goods,AB,24-Dec,144.6
+1889,Services,AB,24-Dec,197.0
+1890,All-items,MB,24-Dec,160.0
+1891,Food,MB,24-Dec,186.2
+1892,Shelter,MB,24-Dec,197.4
+1893,"Household operations, furnishings and equipment",MB,24-Dec,125.6
+1894,Clothing and footwear,MB,24-Dec,89.8
+1895,Transportation,MB,24-Dec,166.4
+1896,Gasoline,MB,24-Dec,196.2
+1897,Health and personal care,MB,24-Dec,141.3
+1898,"Recreation, education and reading",MB,24-Dec,125.3
+1899,"Alcoholic beverages, tobacco products and recreational cannabis",MB,24-Dec,207.1
+1900,All-items excluding food and energy,MB,24-Dec,152.6
+1901,All-items excluding energy,MB,24-Dec,158.4
+1902,Energy,MB,24-Dec,177.3
+1903,Goods,MB,24-Dec,141.0
+1904,Services,MB,24-Dec,181.6
+1905,All-items,SK,24-Dec,162.8
+1906,Food,SK,24-Dec,191.2
+1907,Shelter,SK,24-Dec,204.5
+1908,"Household operations, furnishings and equipment",SK,24-Dec,118.4
+1909,Clothing and footwear,SK,24-Dec,98.3
+1910,Transportation,SK,24-Dec,165.2
+1911,Gasoline,SK,24-Dec,202.6
+1912,Health and personal care,SK,24-Dec,148.9
+1913,"Recreation, education and reading",SK,24-Dec,128.1
+1914,"Alcoholic beverages, tobacco products and recreational cannabis",SK,24-Dec,210.6
+1915,All-items excluding food and energy,SK,24-Dec,154.4
+1916,All-items excluding energy,SK,24-Dec,160.6
+1917,Energy,SK,24-Dec,183.5
+1918,Goods,SK,24-Dec,144.2
+1919,Services,SK,24-Dec,186.0
+1920,All-items,NS,24-Dec,163.6
+1921,Food,NS,24-Dec,191.6
+1922,Shelter,NS,24-Dec,191.7
+1923,"Household operations, furnishings and equipment",NS,24-Dec,126.0
+1924,Clothing and footwear,NS,24-Dec,93.9
+1925,Transportation,NS,24-Dec,170.8
+1926,Gasoline,NS,24-Dec,207.8
+1927,Health and personal care,NS,24-Dec,146.9
+1928,"Recreation, education and reading",NS,24-Dec,131.7
+1929,"Alcoholic beverages, tobacco products and recreational cannabis",NS,24-Dec,232.9
+1930,All-items excluding food and energy,NS,24-Dec,149.5
+1931,All-items excluding energy,NS,24-Dec,157.1
+1932,Energy,NS,24-Dec,219.6
+1933,Goods,NS,24-Dec,156.7
+1934,Services,NS,24-Dec,171.0
+1935,All-items,NB,24-Dec,160.3
+1936,Food,NB,24-Dec,198.7
+1937,Shelter,NB,24-Dec,176.9
+1938,"Household operations, furnishings and equipment",NB,24-Dec,127.1
+1939,Clothing and footwear,NB,24-Dec,94.5
+1940,Transportation,NB,24-Dec,170.1
+1941,Gasoline,NB,24-Dec,209.0
+1942,Health and personal care,NB,24-Dec,142.2
+1943,"Recreation, education and reading",NB,24-Dec,128.9
+1944,"Alcoholic beverages, tobacco products and recreational cannabis",NB,24-Dec,224.9
+1945,All-items excluding food and energy,NB,24-Dec,145.2
+1946,All-items excluding energy,NB,24-Dec,154.6
+1947,Energy,NB,24-Dec,205.0
+1948,Goods,NB,24-Dec,154.2
+1949,Services,NB,24-Dec,167.5
+1950,All-items,NL,24-Dec,160.7
+1951,Food,NL,24-Dec,184.8
+1952,Shelter,NL,24-Dec,201.8
+1953,"Household operations, furnishings and equipment",NL,24-Dec,121.2
+1954,Clothing and footwear,NL,24-Dec,83.2
+1955,Transportation,NL,24-Dec,174.3
+1956,Gasoline,NL,24-Dec,212.9
+1957,Health and personal care,NL,24-Dec,145.5
+1958,"Recreation, education and reading",NL,24-Dec,115.7
+1959,"Alcoholic beverages, tobacco products and recreational cannabis",NL,24-Dec,225.8
+1960,All-items excluding food and energy,NL,24-Dec,145.1
+1961,All-items excluding energy,NL,24-Dec,152.6
+1962,Energy,NL,24-Dec,228.0
+1963,Goods,NL,24-Dec,153.6
+1964,Services,NL,24-Dec,170.7
+1965,All-items,PEI,24-Dec,163.6
+1966,Food,PEI,24-Dec,195.2
+1967,Shelter,PEI,24-Dec,179.1
+1968,"Household operations, furnishings and equipment",PEI,24-Dec,136.5
+1969,Clothing and footwear,PEI,24-Dec,96.0
+1970,Transportation,PEI,24-Dec,175.8
+1971,Gasoline,PEI,24-Dec,238.6
+1972,Health and personal care,PEI,24-Dec,154.8
+1973,"Recreation, education and reading",PEI,24-Dec,123.6
+1974,"Alcoholic beverages, tobacco products and recreational cannabis",PEI,24-Dec,227.0
+1975,All-items excluding food and energy,PEI,24-Dec,146.4
+1976,All-items excluding energy,PEI,24-Dec,155.1
+1977,Energy,PEI,24-Dec,238.7
+1978,Goods,PEI,24-Dec,164.9
+1979,Services,PEI,24-Dec,160.7
